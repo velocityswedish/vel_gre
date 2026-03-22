@@ -149,7 +149,37 @@
       "greek": "Ευγνωμοσύνη, μια ευχαριστημένη καρδιά.",
       "category": "Happiness",
       "generated_at": "2026-03-22T16:59:43.554296"
+    },
+    {
+      "english": "Slow and steady, wins the race.",
+      "greek": "Σιγά, σιγά, κερνάμε.",
+      "category": "Patience",
+      "generated_at": "2026-03-22T19:48:32.859190"
+    },
+    {
+      "english": "Good things, take time.",
+      "greek": "Τα καλά, θέλουν χρόνο.",
+      "category": "Patience",
+      "generated_at": "2026-03-22T19:48:32.859200"
+    },
+    {
+      "english": "Don't rush, it's a marathon.",
+      "greek": "Μην βιάζεσαι, είναι μαραθώνιος.",
+      "category": "Patience",
+      "generated_at": "2026-03-22T19:48:32.859201"
+    },
+    {
+      "english": "Wait, for the right moment.",
+      "greek": "Περίμενε, τη σωστή στιγμή.",
+      "category": "Patience",
+      "generated_at": "2026-03-22T19:48:32.859202"
+    },
+    {
+      "english": "Let it unfold, naturally.",
+      "greek": "Άσ' το να εξελιχθεί, φυσικά.",
+      "category": "Patience",
+      "generated_at": "2026-03-22T19:48:32.859203"
     }
   ],
-  "last_updated": "2026-03-22T16:59:43.554298"
+  "last_updated": "2026-03-22T19:48:32.859205"
 }
