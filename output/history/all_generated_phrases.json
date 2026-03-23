@@ -269,7 +269,37 @@
       "greek": "Μικρά βήματα, μεγάλο ταξίδι.",
       "category": "Wisdom",
       "generated_at": "2026-03-23T16:13:54.296872"
+    },
+    {
+      "english": "You can do this, really.",
+      "greek": "Μπορείς να το κάνεις, αλήθεια.",
+      "category": "Confidence",
+      "generated_at": "2026-03-23T18:11:25.130762"
+    },
+    {
+      "english": "Keep trying, don't stop.",
+      "greek": "Συνέχισε την προσπάθεια, μην σταματάς.",
+      "category": "Confidence",
+      "generated_at": "2026-03-23T18:11:25.130772"
+    },
+    {
+      "english": "Every step counts, forward.",
+      "greek": "Κάθε βήμα μετράει, μπροστά.",
+      "category": "Confidence",
+      "generated_at": "2026-03-23T18:11:25.130774"
+    },
+    {
+      "english": "You're learning fast, good.",
+      "greek": "Μαθαίνεις γρήγορα, μπράβο.",
+      "category": "Confidence",
+      "generated_at": "2026-03-23T18:11:25.130775"
+    },
+    {
+      "english": "Speak it out, clearly.",
+      "greek": "Πες το δυνατά, καθαρά.",
+      "category": "Confidence",
+      "generated_at": "2026-03-23T18:11:25.130776"
     }
   ],
-  "last_updated": "2026-03-23T16:13:54.296873"
+  "last_updated": "2026-03-23T18:11:25.130778"
 }
