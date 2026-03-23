@@ -299,7 +299,37 @@
       "greek": "Πες το δυνατά, καθαρά.",
       "category": "Confidence",
       "generated_at": "2026-03-23T18:11:25.130776"
+    },
+    {
+      "english": "I forgive you, truly.",
+      "greek": "Σε συγχωρώ, αληθινά.",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-23T20:58:49.063335"
+    },
+    {
+      "english": "Let's move on, okay?",
+      "greek": "Ας προχωρήσουμε, εντάξει;",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-23T20:58:49.063344"
+    },
+    {
+      "english": "It's forgotten now.",
+      "greek": "Έχει ξεχαστεί πια.",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-23T20:58:49.063346"
+    },
+    {
+      "english": "No hard feelings, friend.",
+      "greek": "Χωρίς πικρία, φίλε/φίλη.",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-23T20:58:49.063347"
+    },
+    {
+      "english": "We're good, right?",
+      "greek": "Είμαστε καλά, έτσι;",
+      "category": "Forgiveness",
+      "generated_at": "2026-03-23T20:58:49.063349"
     }
   ],
-  "last_updated": "2026-03-23T18:11:25.130778"
+  "last_updated": "2026-03-23T20:58:49.063355"
 }
