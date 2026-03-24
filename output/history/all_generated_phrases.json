@@ -449,7 +449,37 @@
       "greek": "Σας ευχαριστώ, για το χρόνο σας.",
       "category": "Gratitude",
       "generated_at": "2026-03-24T21:02:17.021109"
+    },
+    {
+      "english": "Learn Greek, step by step.",
+      "greek": "Μάθε, Ελληνικά, βήμα, βήμα.",
+      "category": "Purpose",
+      "generated_at": "2026-03-24T23:04:01.459795"
+    },
+    {
+      "english": "Speak it, every day.",
+      "greek": "Μίλα, το, κάθε, μέρα.",
+      "category": "Purpose",
+      "generated_at": "2026-03-24T23:04:01.459804"
+    },
+    {
+      "english": "Understand, the culture.",
+      "greek": "Κατανόησε, τον, πολιτισμό.",
+      "category": "Purpose",
+      "generated_at": "2026-03-24T23:04:01.459807"
+    },
+    {
+      "english": "Read it, slowly.",
+      "greek": "Διάβασε, το, αργά.",
+      "category": "Purpose",
+      "generated_at": "2026-03-24T23:04:01.459808"
+    },
+    {
+      "english": "Write it, with joy.",
+      "greek": "Γράψε, το, με, χαρά.",
+      "category": "Purpose",
+      "generated_at": "2026-03-24T23:04:01.459810"
     }
   ],
-  "last_updated": "2026-03-24T21:02:17.021111"
+  "last_updated": "2026-03-24T23:04:01.459812"
 }
