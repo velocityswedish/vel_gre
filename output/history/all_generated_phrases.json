@@ -569,7 +569,37 @@
       "greek": "Πίστεψε στον εαυτό σου, λάμψε φωτεινά.",
       "category": "Positive Life",
       "generated_at": "2026-03-25T18:38:56.167043"
+    },
+    {
+      "english": "Learn a little, daily.",
+      "greek": "Μαθαίνω λίγο, καθημερινά.",
+      "category": "Growth",
+      "generated_at": "2026-03-25T20:58:16.091074"
+    },
+    {
+      "english": "Every step, counts.",
+      "greek": "Κάθε βήμα, μετράει.",
+      "category": "Growth",
+      "generated_at": "2026-03-25T20:58:16.091083"
+    },
+    {
+      "english": "Be patient, with yourself.",
+      "greek": "Να είσαι υπομονετικός, με τον εαυτό σου.",
+      "category": "Growth",
+      "generated_at": "2026-03-25T20:58:16.091084"
+    },
+    {
+      "english": "Mistakes, are lessons.",
+      "greek": "Τα λάθη, είναι μαθήματα.",
+      "category": "Growth",
+      "generated_at": "2026-03-25T20:58:16.091085"
+    },
+    {
+      "english": "Keep trying, you can.",
+      "greek": "Συνέχισε να προσπαθείς, μπορείς.",
+      "category": "Growth",
+      "generated_at": "2026-03-25T20:58:16.091086"
     }
   ],
-  "last_updated": "2026-03-25T18:38:56.167045"
+  "last_updated": "2026-03-25T20:58:16.091088"
 }
