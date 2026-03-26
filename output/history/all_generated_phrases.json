@@ -659,7 +659,37 @@
       "greek": "Αναπτύξου, με κάθε λέξη.",
       "category": "Growth",
       "generated_at": "2026-03-26T06:03:04.084313"
+    },
+    {
+      "english": "Your effort, shines bright.",
+      "greek": "Η προσπάθειά σου, λάμπει.",
+      "category": "Success",
+      "generated_at": "2026-03-26T16:45:23.551812"
+    },
+    {
+      "english": "Keep going, you're close.",
+      "greek": "Συνέχισε, είσαι κοντά.",
+      "category": "Success",
+      "generated_at": "2026-03-26T16:45:23.551819"
+    },
+    {
+      "english": "Learn daily, grow strong.",
+      "greek": "Μαθαίνε καθημερινά, γίνε δυνατός.",
+      "category": "Success",
+      "generated_at": "2026-03-26T16:45:23.551821"
+    },
+    {
+      "english": "You've got this, believe.",
+      "greek": "Μπορείς το, πίστεψε.",
+      "category": "Success",
+      "generated_at": "2026-03-26T16:45:23.551822"
+    },
+    {
+      "english": "Every word, counts now.",
+      "greek": "Κάθε λέξη, μετράει τώρα.",
+      "category": "Success",
+      "generated_at": "2026-03-26T16:45:23.551823"
     }
   ],
-  "last_updated": "2026-03-26T06:03:04.084315"
+  "last_updated": "2026-03-26T16:45:23.551824"
 }
