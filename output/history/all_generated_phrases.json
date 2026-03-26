@@ -719,7 +719,37 @@
       "greek": "Βρες το ρυθμό σου, φυσικά.",
       "category": "Balance",
       "generated_at": "2026-03-26T19:40:39.904833"
+    },
+    {
+      "english": "Never lose hope, my friend.",
+      "greek": "Μην χάνεις ποτέ την ελπίδα, φίλε.",
+      "category": "Hope",
+      "generated_at": "2026-03-26T23:00:04.536479"
+    },
+    {
+      "english": "Sunshine follows, every storm.",
+      "greek": "Ο ήλιος ακολουθεί, κάθε καταιγίδα.",
+      "category": "Hope",
+      "generated_at": "2026-03-26T23:00:04.536492"
+    },
+    {
+      "english": "Hold on, it gets better.",
+      "greek": "Κράτα γερά, θα γίνει καλύτερα.",
+      "category": "Hope",
+      "generated_at": "2026-03-26T23:00:04.536495"
+    },
+    {
+      "english": "Seeds of hope, will grow.",
+      "greek": "Σπόροι ελπίδας, θα ανθίσουν.",
+      "category": "Hope",
+      "generated_at": "2026-03-26T23:00:04.536497"
+    },
+    {
+      "english": "Your strength, is your hope.",
+      "greek": "Η δύναμή σου, είναι η ελπίδα σου.",
+      "category": "Hope",
+      "generated_at": "2026-03-26T23:00:04.536499"
     }
   ],
-  "last_updated": "2026-03-26T19:40:39.904834"
+  "last_updated": "2026-03-26T23:00:04.536502"
 }
