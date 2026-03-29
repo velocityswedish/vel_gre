@@ -1019,7 +1019,37 @@
       "greek": "Πρόσφερε ένα χέρι, βρες έναν φίλο.",
       "category": "Kindness",
       "generated_at": "2026-03-28T23:01:17.002208"
+    },
+    {
+      "english": "A quiet moment, a deep breath.",
+      "greek": "Μια ήσυχη στιγμή, μια βαθιά ανάσα.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-29T06:03:01.678341"
+    },
+    {
+      "english": "Sun on my face, a good sign.",
+      "greek": "Ήλιος στο πρόσωπό μου, ένα καλό σημάδι.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-29T06:03:01.678351"
+    },
+    {
+      "english": "Warm tea, happy thoughts.",
+      "greek": "Ζεστό τσάι, χαρούμενες σκέψεις.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-29T06:03:01.678352"
+    },
+    {
+      "english": "A friendly smile, lifts my day.",
+      "greek": "Ένα φιλικό χαμόγελο, ανεβάζει την ημέρα μου.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-29T06:03:01.678353"
+    },
+    {
+      "english": "The small flower, it blooms.",
+      "greek": "Το μικρό λουλούδι, ανθίζει.",
+      "category": "Gratitude",
+      "generated_at": "2026-03-29T06:03:01.678355"
     }
   ],
-  "last_updated": "2026-03-28T23:01:17.002210"
+  "last_updated": "2026-03-29T06:03:01.678356"
 }
