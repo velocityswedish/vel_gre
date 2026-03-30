@@ -1199,7 +1199,37 @@
       "greek": "Ένα μοιρασμένο βάρος, μοιάζει με ανάσα.",
       "category": "Wisdom",
       "generated_at": "2026-03-30T07:08:08.589501"
+    },
+    {
+      "english": "Face the shadow, find the light.",
+      "greek": "Αντιμετώπισε τη σκιά, βρες το φως.",
+      "category": "Courage",
+      "generated_at": "2026-03-30T16:15:41.162955"
+    },
+    {
+      "english": "When the path darkens, just breathe.",
+      "greek": "Όταν σκοτεινιάζει ο δρόμος, απλά ανάσα.",
+      "category": "Courage",
+      "generated_at": "2026-03-30T16:15:41.162965"
+    },
+    {
+      "english": "A single spark, ignites the dawn.",
+      "greek": "Μια μοναχή σπίθα, ανάβει την αυγή.",
+      "category": "Courage",
+      "generated_at": "2026-03-30T16:15:41.162966"
+    },
+    {
+      "english": "Even a whisper, can shatter walls.",
+      "greek": "Ακόμα κι ένας ψίθυρος, μπορεί να γκρεμίσει τείχη.",
+      "category": "Courage",
+      "generated_at": "2026-03-30T16:15:41.162967"
+    },
+    {
+      "english": "Plant your feet, stand your ground.",
+      "greek": "Στερέωσε τα πόδια σου, κράτα τη θέση σου.",
+      "category": "Courage",
+      "generated_at": "2026-03-30T16:15:41.162968"
     }
   ],
-  "last_updated": "2026-03-30T07:08:08.589502"
+  "last_updated": "2026-03-30T16:15:41.162970"
 }
