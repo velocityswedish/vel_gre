@@ -1679,7 +1679,37 @@
       "greek": "Φρόντισε τον εσωτερικό σου κήπο, δες τον να ανθίζει.",
       "category": "Self Improvement",
       "generated_at": "2026-04-20T07:32:30.053213"
+    },
+    {
+      "english": "The path is long, but the view, is worth it.",
+      "greek": "Ο δρόμος, είναι μακρύς, μα η θέα, αξίζει.",
+      "category": "Perseverance",
+      "generated_at": "2026-04-20T16:45:49.746037"
+    },
+    {
+      "english": "Even a trickle, carves a canyon.",
+      "greek": "Ακόμα και σταγόνα, σμιλεύει φαράγγι.",
+      "category": "Perseverance",
+      "generated_at": "2026-04-20T16:45:49.746046"
+    },
+    {
+      "english": "Sow persistence, reap reward.",
+      "greek": "Σπείρε επιμονή, θερίσε ανταμοιβή.",
+      "category": "Perseverance",
+      "generated_at": "2026-04-20T16:45:49.746047"
+    },
+    {
+      "english": "The steady hand, builds the strongest walls.",
+      "greek": "Το σταθερό χέρι, χτίζει τα γερά τείχη.",
+      "category": "Perseverance",
+      "generated_at": "2026-04-20T16:45:49.746049"
+    },
+    {
+      "english": "When wings are tired, keep swimming.",
+      "greek": "Όταν κουράζονται φτερά, συνέχισε κολυμπώντας.",
+      "category": "Perseverance",
+      "generated_at": "2026-04-20T16:45:49.746050"
     }
   ],
-  "last_updated": "2026-04-20T07:32:30.053215"
+  "last_updated": "2026-04-20T16:45:49.746051"
 }
