@@ -1889,7 +1889,37 @@
       "greek": "Η γαλήνη ανθίζει, μέσα σου.",
       "category": "Happiness",
       "generated_at": "2026-04-21T19:55:31.267951"
+    },
+    {
+      "english": "Breathe in the calm, exhale the haste.",
+      "greek": "Πάρε βαθιά, άσε την βιασύνη.",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-21T20:01:41.647028"
+    },
+    {
+      "english": "Listen to the quiet, inside your heart.",
+      "greek": "Άκου τη σιωπή, μες στην καρδιά.",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-21T20:01:41.647036"
+    },
+    {
+      "english": "Observe the light, on your skin.",
+      "greek": "Νιώσε το φως, πάνω στο δέρμα.",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-21T20:01:41.647037"
+    },
+    {
+      "english": "Feel the ground, beneath your feet.",
+      "greek": "Πάτα γερά, στο χώμα σου.",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-21T20:01:41.647038"
+    },
+    {
+      "english": "Let thoughts drift, like clouds passing.",
+      "greek": "Σκέψεις αφήστε, σύννεφα που φεύγουν.",
+      "category": "Mindfulness",
+      "generated_at": "2026-04-21T20:01:41.647039"
     }
   ],
-  "last_updated": "2026-04-21T19:55:31.267952"
+  "last_updated": "2026-04-21T20:01:41.647041"
 }
