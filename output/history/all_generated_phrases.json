@@ -2729,7 +2729,37 @@
       "greek": "Η δική σου οπτική, ένα νέο παράθυρο.",
       "category": "Friendship",
       "generated_at": "2026-04-27T04:32:22.719763"
+    },
+    {
+      "english": "The sun warms my face, kindly.",
+      "greek": "Ο ήλιος ζεσταίνει, καλοσυνάτα.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-27T15:07:16.816779"
+    },
+    {
+      "english": "Small kindnesses, they bloom.",
+      "greek": "Μικρές καλοσύνες, ανθίζουν.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-27T15:07:16.816791"
+    },
+    {
+      "english": "A good book, a true friend.",
+      "greek": "Ένα καλό βιβλίο, πιστός φίλος.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-27T15:07:16.816793"
+    },
+    {
+      "english": "This delicious food, thank you.",
+      "greek": "Αυτό το νόστιμο φαγητό, ευχαριστώ.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-27T15:07:16.816794"
+    },
+    {
+      "english": "The birds sing, a happy sound.",
+      "greek": "Τα πουλιά τραγουδούν, χαρά.",
+      "category": "Gratitude",
+      "generated_at": "2026-04-27T15:07:16.816795"
     }
   ],
-  "last_updated": "2026-04-27T04:32:22.719765"
+  "last_updated": "2026-04-27T15:07:16.816796"
 }
