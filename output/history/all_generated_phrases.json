@@ -3179,7 +3179,37 @@
       "greek": "Η ηρεμία μετά, το κύμα σπάει.",
       "category": "Balance",
       "generated_at": "2026-04-30T15:09:19.250866"
+    },
+    {
+      "english": "The seed is planted, soon, growth.",
+      "greek": "Το σπόρος, φυτεύτηκε, σύντομα, ανάπτυξη.",
+      "category": "Confidence",
+      "generated_at": "2026-04-30T17:21:45.490502"
+    },
+    {
+      "english": "Today, a new branch, unfolds.",
+      "greek": "Σήμερα, ένα νέο, κλαδί, ξεδιπλώνεται.",
+      "category": "Confidence",
+      "generated_at": "2026-04-30T17:21:45.490513"
+    },
+    {
+      "english": "Find your rhythm, in the quiet.",
+      "greek": "Βρες, τον ρυθμό σου, στην ησυχία.",
+      "category": "Confidence",
+      "generated_at": "2026-04-30T17:21:45.490515"
+    },
+    {
+      "english": "Each breath, a fresh canvas.",
+      "greek": "Κάθε ανάσα, ένας φρέσκος, καμβάς.",
+      "category": "Confidence",
+      "generated_at": "2026-04-30T17:21:45.490516"
+    },
+    {
+      "english": "Let the currents, carry you.",
+      "greek": "Άσε, τα ρεύματα, να σε πάρουν.",
+      "category": "Confidence",
+      "generated_at": "2026-04-30T17:21:45.490517"
     }
   ],
-  "last_updated": "2026-04-30T15:09:19.250869"
+  "last_updated": "2026-04-30T17:21:45.490519"
 }
