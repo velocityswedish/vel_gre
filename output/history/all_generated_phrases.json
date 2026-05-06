@@ -4019,7 +4019,37 @@
       "greek": "Αγκάλιασε το ταξίδι, είσαι δυνατός/ή.",
       "category": "Confidence",
       "generated_at": "2026-05-06T04:35:37.089009"
+    },
+    {
+      "english": "Chase the horizon, find your light.",
+      "greek": "Κυνήγα τον ορίζοντα, βρες το φως σου.",
+      "category": "Purpose",
+      "generated_at": "2026-05-06T15:27:06.449936"
+    },
+    {
+      "english": "Listen to the quiet whispers.",
+      "greek": "Άκουσε τις ήσυχες ψιθυρίσεις.",
+      "category": "Purpose",
+      "generated_at": "2026-05-06T15:27:06.449946"
+    },
+    {
+      "english": "Unfold your own map.",
+      "greek": "Ξεδίπλωνε τον δικό σου χάρτη.",
+      "category": "Purpose",
+      "generated_at": "2026-05-06T15:27:06.449948"
+    },
+    {
+      "english": "Sow kindness, reap joy.",
+      "greek": "Σπείρε καλοσύνη, θέρισε χαρά.",
+      "category": "Purpose",
+      "generated_at": "2026-05-06T15:27:06.449949"
+    },
+    {
+      "english": "Find wonder in the mundane.",
+      "greek": "Βρες το θαύμα στα συνηθισμένα.",
+      "category": "Purpose",
+      "generated_at": "2026-05-06T15:27:06.449951"
     }
   ],
-  "last_updated": "2026-05-06T04:35:37.089011"
+  "last_updated": "2026-05-06T15:27:06.449952"
 }
