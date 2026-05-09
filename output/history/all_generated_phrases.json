@@ -4499,7 +4499,37 @@
       "greek": "Άφησε τις ανησυχίες, να φεύγουν σαν σύννεφα.",
       "category": "Mindfulness",
       "generated_at": "2026-05-09T14:17:54.223943"
+    },
+    {
+      "english": "Paint your world, in bold colors.",
+      "greek": "Ζωγράφισε τον κόσμο σου, με έντονα χρώματα.",
+      "category": "Creativity",
+      "generated_at": "2026-05-09T16:55:22.778006"
+    },
+    {
+      "english": "Let ideas bloom, like wildflowers.",
+      "greek": "Άσε τις ιδέες να ανθίσουν, σαν αγριολούλουδα.",
+      "category": "Creativity",
+      "generated_at": "2026-05-09T16:55:22.778017"
+    },
+    {
+      "english": "Build something new, brick by playful brick.",
+      "greek": "Φτιάξε κάτι καινούργιο, τούβλο με παιχνιδιάρικο τούβλο.",
+      "category": "Creativity",
+      "generated_at": "2026-05-09T16:55:22.778018"
+    },
+    {
+      "english": "Your mind, a garden of whispers.",
+      "greek": "Ο νους σου, κήπος ψιθύρων.",
+      "category": "Creativity",
+      "generated_at": "2026-05-09T16:55:22.778019"
+    },
+    {
+      "english": "Discover new paths, on familiar maps.",
+      "greek": "Ανακάλυψε νέους δρόμους, σε γνώριμους χάρτες.",
+      "category": "Creativity",
+      "generated_at": "2026-05-09T16:55:22.778020"
     }
   ],
-  "last_updated": "2026-05-09T14:17:54.223945"
+  "last_updated": "2026-05-09T16:55:22.778022"
 }
