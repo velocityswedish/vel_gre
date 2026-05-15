@@ -5459,7 +5459,37 @@
       "greek": "Αύριο, ίσως φέρει νέο ήλιο.",
       "category": "Patience",
       "generated_at": "2026-05-15T20:13:51.189057"
+    },
+    {
+      "english": "Your smile, a sunbeam, warms my day.",
+      "greek": "Το χαμόγελό σου, μια αχτίδα, ζεσταίνει τη μέρα μου.",
+      "category": "Love",
+      "generated_at": "2026-05-15T22:59:39.839939"
+    },
+    {
+      "english": "You paint my world, in vibrant hues.",
+      "greek": "Ζωγραφίζεις τον κόσμο μου, με έντονα χρώματα.",
+      "category": "Love",
+      "generated_at": "2026-05-15T22:59:39.839950"
+    },
+    {
+      "english": "My heart, a quiet harbor, found you.",
+      "greek": "Η καρδιά μου, ένα ήσυχο λιμάνι, σε βρήκε.",
+      "category": "Love",
+      "generated_at": "2026-05-15T22:59:39.839951"
+    },
+    {
+      "english": "In your eyes, I see quiet stars.",
+      "greek": "Στα μάτια σου, βλέπω ήσυχα αστέρια.",
+      "category": "Love",
+      "generated_at": "2026-05-15T22:59:39.839953"
+    },
+    {
+      "english": "You are the melody, my song sings.",
+      "greek": "Είσαι η μελωδία, που το τραγούδι μου τραγουδά.",
+      "category": "Love",
+      "generated_at": "2026-05-15T22:59:39.839954"
     }
   ],
-  "last_updated": "2026-05-15T20:13:51.189059"
+  "last_updated": "2026-05-15T22:59:39.839955"
 }
