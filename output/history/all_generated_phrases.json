@@ -5339,7 +5339,37 @@
       "greek": "Είσαι μια φωτεινή σπίθα.",
       "category": "Confidence",
       "generated_at": "2026-05-14T23:01:44.997065"
+    },
+    {
+      "english": "Your light, it shines brighter now.",
+      "greek": "Το φως σου, λάμπει πιο δυνατά τώρα.",
+      "category": "Confidence",
+      "generated_at": "2026-05-15T04:52:56.643626"
+    },
+    {
+      "english": "This path, it holds your strength.",
+      "greek": "Αυτός ο δρόμος, κρατά τη δύναμή σου.",
+      "category": "Confidence",
+      "generated_at": "2026-05-15T04:52:56.643635"
+    },
+    {
+      "english": "The world waits, for your color.",
+      "greek": "Ο κόσμος περιμένει, το χρώμα σου.",
+      "category": "Confidence",
+      "generated_at": "2026-05-15T04:52:56.643636"
+    },
+    {
+      "english": "You are the artist, of your day.",
+      "greek": "Είσαι ο καλλιτέχνης, της ημέρας σου.",
+      "category": "Confidence",
+      "generated_at": "2026-05-15T04:52:56.643637"
+    },
+    {
+      "english": "Plant seeds, of bold ideas.",
+      "greek": "Φύτεψε σπόρους, τολμηρών ιδεών.",
+      "category": "Confidence",
+      "generated_at": "2026-05-15T04:52:56.643639"
     }
   ],
-  "last_updated": "2026-05-14T23:01:44.997066"
+  "last_updated": "2026-05-15T04:52:56.643640"
 }
