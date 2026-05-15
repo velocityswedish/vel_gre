@@ -5429,7 +5429,37 @@
       "greek": "Είσαι ο γλύπτης, του δρόμου σου.",
       "category": "Confidence",
       "generated_at": "2026-05-15T17:27:21.718934"
+    },
+    {
+      "english": "The slow seed, eventually blooms.",
+      "greek": "Το αργό σπόρος, τελικά ανθίζει.",
+      "category": "Patience",
+      "generated_at": "2026-05-15T20:13:51.189041"
+    },
+    {
+      "english": "Even mountains, wear down slowly.",
+      "greek": "Ακόμα βουνά, φθείρονται αργά.",
+      "category": "Patience",
+      "generated_at": "2026-05-15T20:13:51.189054"
+    },
+    {
+      "english": "Wait for the right tide.",
+      "greek": "Περίμενε, την σωστή παλίρροια.",
+      "category": "Patience",
+      "generated_at": "2026-05-15T20:13:51.189055"
+    },
+    {
+      "english": "Still water, reflects deeply.",
+      "greek": "Ήρεμο νερό, αντανακλά βαθιά.",
+      "category": "Patience",
+      "generated_at": "2026-05-15T20:13:51.189056"
+    },
+    {
+      "english": "Tomorrow, may bring a new sun.",
+      "greek": "Αύριο, ίσως φέρει νέο ήλιο.",
+      "category": "Patience",
+      "generated_at": "2026-05-15T20:13:51.189057"
     }
   ],
-  "last_updated": "2026-05-15T17:27:21.718935"
+  "last_updated": "2026-05-15T20:13:51.189059"
 }
