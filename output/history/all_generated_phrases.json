@@ -6149,7 +6149,37 @@
       "greek": "Κάθε κυματάκι, φτιάχνει κύματα.",
       "category": "Confidence",
       "generated_at": "2026-05-20T18:16:12.378104"
+    },
+    {
+      "english": "A tiny spark, can light the way.",
+      "greek": "Μια μικρή σπίθα, μπορεί να φωτίσει.",
+      "category": "Hope",
+      "generated_at": "2026-05-20T20:59:08.095880"
+    },
+    {
+      "english": "The morning mist, often hides the sun.",
+      "greek": "Η πρωινή ομίχλη, συχνά κρύβει τον ήλιο.",
+      "category": "Hope",
+      "generated_at": "2026-05-20T20:59:08.095891"
+    },
+    {
+      "english": "Listen to the quiet, it whispers futures.",
+      "greek": "Άκου την ησυχία, ψιθυρίζει μέλλοντα.",
+      "category": "Hope",
+      "generated_at": "2026-05-20T20:59:08.095892"
+    },
+    {
+      "english": "Seeds buried deep, grow towards light.",
+      "greek": "Σπόροι θαμμένοι βαθιά, φυτρώνουν προς φως.",
+      "category": "Hope",
+      "generated_at": "2026-05-20T20:59:08.095893"
+    },
+    {
+      "english": "Even small rivers, find the vast sea.",
+      "greek": "Ακόμα μικρά ποτάμια, βρίσκουν τη μεγάλη θάλασσα.",
+      "category": "Hope",
+      "generated_at": "2026-05-20T20:59:08.095894"
     }
   ],
-  "last_updated": "2026-05-20T18:16:12.378106"
+  "last_updated": "2026-05-20T20:59:08.095896"
 }
