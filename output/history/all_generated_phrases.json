@@ -9809,7 +9809,37 @@
       "greek": "Η σπίθα σου ανάβει, πιο λαμπερή από όσο ξέρεις.",
       "category": "Confidence",
       "generated_at": "2026-06-19T15:58:44.013126"
+    },
+    {
+      "english": "Plant your idea, watch it bloom.",
+      "greek": "Φύτεψε την ιδέα σου, δες την να ανθίζει.",
+      "category": "Purpose",
+      "generated_at": "2026-06-19T17:57:04.459066"
+    },
+    {
+      "english": "Each morning, a fresh canvas.",
+      "greek": "Κάθε πρωί, ένας φρέσκος καμβάς.",
+      "category": "Purpose",
+      "generated_at": "2026-06-19T17:57:04.459075"
+    },
+    {
+      "english": "Listen for the quiet wisdom.",
+      "greek": "Άκου τη σιωπηλή σοφία.",
+      "category": "Purpose",
+      "generated_at": "2026-06-19T17:57:04.459077"
+    },
+    {
+      "english": "Taste the present moment, fully.",
+      "greek": "Γεύσου την παρούσα στιγμή, ολόκληρη.",
+      "category": "Purpose",
+      "generated_at": "2026-06-19T17:57:04.459078"
+    },
+    {
+      "english": "Chase the sunlight, not the shade.",
+      "greek": "Κυνήγα το φως, όχι τη σκιά.",
+      "category": "Purpose",
+      "generated_at": "2026-06-19T17:57:04.459079"
     }
   ],
-  "last_updated": "2026-06-19T15:58:44.013127"
+  "last_updated": "2026-06-19T17:57:04.459081"
 }
