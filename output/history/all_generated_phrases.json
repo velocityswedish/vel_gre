@@ -11399,7 +11399,37 @@
       "greek": "Κάθε φως, βρίσκει το παράθυρό του.",
       "category": "Success",
       "generated_at": "2026-06-29T23:02:47.460894"
+    },
+    {
+      "english": "Find the light, in the shadows.",
+      "greek": "Βρες το φως, στις σκιές.",
+      "category": "Purpose",
+      "generated_at": "2026-06-30T05:05:47.290824"
+    },
+    {
+      "english": "Taste the moment, savor its flavor.",
+      "greek": "Γεύσου τη στιγμή, απόλαυσέ την.",
+      "category": "Purpose",
+      "generated_at": "2026-06-30T05:05:47.290833"
+    },
+    {
+      "english": "Listen to the whisper, of your heart.",
+      "greek": "Άκου το ψίθυρο, της καρδιάς σου.",
+      "category": "Purpose",
+      "generated_at": "2026-06-30T05:05:47.290835"
+    },
+    {
+      "english": "Build your castle, brick by brick.",
+      "greek": "Χτίσε το κάστρο σου, τούβλο τούβλο.",
+      "category": "Purpose",
+      "generated_at": "2026-06-30T05:05:47.290836"
+    },
+    {
+      "english": "The journey shapes, the traveler.",
+      "greek": "Το ταξίδι διαμορφώνει, τον ταξιδιώτη.",
+      "category": "Purpose",
+      "generated_at": "2026-06-30T05:05:47.290837"
     }
   ],
-  "last_updated": "2026-06-29T23:02:47.460896"
+  "last_updated": "2026-06-30T05:05:47.290839"
 }
