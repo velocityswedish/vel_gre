@@ -11849,7 +11849,37 @@
       "greek": "Άφησε την πεποίθηση, να γίνει η πυξίδα σου.",
       "category": "Courage",
       "generated_at": "2026-07-02T23:12:44.590864"
+    },
+    {
+      "english": "Find your spark, then fan the flame.",
+      "greek": "Βρες τη σπίθα σου, μετά φύσα τη φλόγα.",
+      "category": "Purpose",
+      "generated_at": "2026-07-03T04:43:10.885470"
+    },
+    {
+      "english": "Even a small seed, can grow mighty trees.",
+      "greek": "Ακόμα κι ένας μικρός σπόρος, μπορεί να γίνει δυνατό δέντρο.",
+      "category": "Purpose",
+      "generated_at": "2026-07-03T04:43:10.885480"
+    },
+    {
+      "english": "Listen to the whispers, of your true calling.",
+      "greek": "Άκουσε τις ψιθυριστές, της αληθινής σου κλήσης.",
+      "category": "Purpose",
+      "generated_at": "2026-07-03T04:43:10.885481"
+    },
+    {
+      "english": "What adventure, calls your name today?",
+      "greek": "Τι περιπέτεια, σε φωνάζει σήμερα;",
+      "category": "Purpose",
+      "generated_at": "2026-07-03T04:43:10.885482"
+    },
+    {
+      "english": "Build your bridge, stone by patient stone.",
+      "greek": "Χτίσε τη γέφυρά σου, πέτρα με υπομονετική πέτρα.",
+      "category": "Purpose",
+      "generated_at": "2026-07-03T04:43:10.885484"
     }
   ],
-  "last_updated": "2026-07-02T23:12:44.590866"
+  "last_updated": "2026-07-03T04:43:10.885486"
 }
