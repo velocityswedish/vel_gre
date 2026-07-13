@@ -13259,7 +13259,37 @@
       "greek": "Το βουνό φωνάζει, απάντησε στην κορυφή.",
       "category": "Success",
       "generated_at": "2026-07-12T22:55:08.560684"
+    },
+    {
+      "english": "The sun rises, twice, for those who wait.",
+      "greek": "Ο ήλιος ανατέλλει, δύο φορές, για όσους περιμένουν.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-13T04:31:44.612459"
+    },
+    {
+      "english": "A quiet stream, carves the deepest canyon.",
+      "greek": "Ένα ήσυχο ρυάκι, σκαλίζει το βαθύτερο φαράγγι.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-13T04:31:44.612469"
+    },
+    {
+      "english": "Listen to the wind, it carries echoes.",
+      "greek": "Άκου τον άνεμο, κουβαλάει ηχώ.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-13T04:31:44.612471"
+    },
+    {
+      "english": "Seeds grow, in darkness first.",
+      "greek": "Οι σπόροι φυτρώνουν, στο σκοτάδι πρώτα.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-13T04:31:44.612472"
+    },
+    {
+      "english": "Each fallen leaf, feeds the next spring.",
+      "greek": "Κάθε πεσμένο φύλλο, τρέφει την επόμενη άνοιξη.",
+      "category": "Wisdom",
+      "generated_at": "2026-07-13T04:31:44.612472"
     }
   ],
-  "last_updated": "2026-07-12T22:55:08.560686"
+  "last_updated": "2026-07-13T04:31:44.612474"
 }
