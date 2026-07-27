@@ -14789,7 +14789,37 @@
       "greek": "Κρατάω τη γραμμή, μια ανάσα κάθε φορά",
       "category": "Confidence",
       "generated_at": "2026-07-27T15:41:22.087468"
+    },
+    {
+      "english": "Breathe now, notice the room around you",
+      "greek": "Ανάπνευσε τώρα, παρατήρησε τον χώρο γύρω σου",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-27T17:42:19.612875"
+    },
+    {
+      "english": "Soft shoulders, feel the air touch",
+      "greek": "Λύσε τους ώμους, νιώσε τον αέρα",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-27T17:42:19.612892"
+    },
+    {
+      "english": "Let thoughts pass, like clouds drifting",
+      "greek": "Άφησε τις σκέψεις, σαν σύννεφα που φεύγουν",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-27T17:42:19.612893"
+    },
+    {
+      "english": "Sip slowly, taste this moment fully",
+      "greek": "Πιες αργά, γεύσου τη στιγμή ολόκληρη",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-27T17:42:19.612894"
+    },
+    {
+      "english": "Listen inward, the quiet is there",
+      "greek": "Άκου μέσα σου, η ησυχία είναι εδώ",
+      "category": "Mindfulness",
+      "generated_at": "2026-07-27T17:42:19.612896"
     }
   ],
-  "last_updated": "2026-07-27T15:41:22.087470"
+  "last_updated": "2026-07-27T17:42:19.612897"
 }
