@@ -15539,7 +15539,37 @@
       "greek": "Η γενναιότητα είναι επιλογή, όχι αναμονή για σιγουριά",
       "category": "Courage",
       "generated_at": "2026-08-02T16:57:20.163233"
+    },
+    {
+      "english": "I steady my breath, then speak clearly",
+      "greek": "Σταθερώνω την ανάσα μου, μετά μιλώ καθαρά",
+      "category": "Confidence",
+      "generated_at": "2026-08-02T20:08:20.717793"
+    },
+    {
+      "english": "My pace is enough, today is real",
+      "greek": "Ο ρυθμός μου φτάνει, σήμερα είναι αληθινό",
+      "category": "Confidence",
+      "generated_at": "2026-08-02T20:08:20.717803"
+    },
+    {
+      "english": "I ask softly, answers come in time",
+      "greek": "Ρωτάω ήρεμα, οι απαντήσεις έρχονται",
+      "category": "Confidence",
+      "generated_at": "2026-08-02T20:08:20.717805"
+    },
+    {
+      "english": "I practice, my words learn to land",
+      "greek": "Δοκιμάζω, οι λέξεις μου μαθαίνουν να φτάνουν",
+      "category": "Confidence",
+      "generated_at": "2026-08-02T20:08:20.717806"
+    },
+    {
+      "english": "I listen first, then I try again",
+      "greek": "Ακούω πρώτα, μετά προσπαθώ ξανά",
+      "category": "Confidence",
+      "generated_at": "2026-08-02T20:08:20.717807"
     }
   ],
-  "last_updated": "2026-08-02T16:57:20.163235"
+  "last_updated": "2026-08-02T20:08:20.717809"
 }
