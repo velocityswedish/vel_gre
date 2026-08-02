@@ -15569,7 +15569,37 @@
       "greek": "Ακούω πρώτα, μετά προσπαθώ ξανά",
       "category": "Confidence",
       "generated_at": "2026-08-02T20:08:20.717807"
+    },
+    {
+      "english": "Morning light, I sort my thoughts, slowly.",
+      "greek": "Πρωινό φως, βάζω τις σκέψεις μου σε σειρά, αργά.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T22:59:29.194989"
+    },
+    {
+      "english": "Breath in, shoulders down, I steady.",
+      "greek": "Εισπνοή, ώμοι κάτω, σταθερεύω.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T22:59:29.194999"
+    },
+    {
+      "english": "Tea steam rises, worries fade, for a moment.",
+      "greek": "Ο ατμός από το τσάι ανεβαίνει, οι έγνοιες σβήνουν, για λίγο.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T22:59:29.195001"
+    },
+    {
+      "english": "I drink water, my body thanks me.",
+      "greek": "Πίνω νερό, το σώμα μου λέει ευχαριστώ.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T22:59:29.195001"
+    },
+    {
+      "english": "Keys in hand, I choose calm steps.",
+      "greek": "Κλειδιά στο χέρι, διαλέγω ήρεμα βήματα.",
+      "category": "Balance",
+      "generated_at": "2026-08-02T22:59:29.195002"
     }
   ],
-  "last_updated": "2026-08-02T20:08:20.717809"
+  "last_updated": "2026-08-02T22:59:29.195004"
 }
