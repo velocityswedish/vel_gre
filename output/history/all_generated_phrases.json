@@ -15929,7 +15929,37 @@
       "greek": "Διαλέγω ειρήνη, πάνω από παλιές πληγές.",
       "category": "Forgiveness",
       "generated_at": "2026-08-05T04:12:56.580765"
+    },
+    {
+      "english": "Notice your breath, not your rushing thoughts",
+      "greek": "Πρόσεχε την ανάσα, όχι τις βιαστικές σκέψεις",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-05T15:11:51.810775"
+    },
+    {
+      "english": "Let the day pass, one quiet moment",
+      "greek": "Άσε τη μέρα να κυλήσει, ένα ήσυχο λεπτό",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-05T15:11:51.810787"
+    },
+    {
+      "english": "Feel your feet, on the floor, steady",
+      "greek": "Νιώσε τα πόδια σου, στο πάτωμα, σταθερά",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-05T15:11:51.810789"
+    },
+    {
+      "english": "Soften your shoulders, like warm water",
+      "greek": "Χαλάρωσε τους ώμους, σαν ζεστό νερό",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-05T15:11:51.810790"
+    },
+    {
+      "english": "Pause, listen to your kitchen’s small sounds",
+      "greek": "Στάσου, άκου τους μικρούς ήχους της κουζίνας",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-05T15:11:51.810791"
     }
   ],
-  "last_updated": "2026-08-05T04:12:56.580767"
+  "last_updated": "2026-08-05T15:11:51.810792"
 }
