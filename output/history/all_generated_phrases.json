@@ -16769,7 +16769,37 @@
       "greek": "Όταν βρέχει, κουβαλάς ηρεμία μέσα σου.",
       "category": "Positive Life",
       "generated_at": "2026-08-10T22:42:01.154433"
+    },
+    {
+      "english": "Hold doors, kindness follows you home",
+      "greek": "Κράτα την πόρτα, η καλοσύνη σε φτάνει σπίτι",
+      "category": "Kindness",
+      "generated_at": "2026-08-11T03:05:14.118814"
+    },
+    {
+      "english": "Smile softly, share your quiet warmth",
+      "greek": "Χαμογέλα απαλά, μοιράσου τη ζεστή ησυχία",
+      "category": "Kindness",
+      "generated_at": "2026-08-11T03:05:14.118826"
+    },
+    {
+      "english": "Say thank you, even for small help",
+      "greek": "Πες ευχαριστώ, για κάθε μικρή βοήθεια",
+      "category": "Kindness",
+      "generated_at": "2026-08-11T03:05:14.118828"
+    },
+    {
+      "english": "Lend a hand, let worries rest",
+      "greek": "Δώσε χέρι, άσε τις ανησυχίες",
+      "category": "Kindness",
+      "generated_at": "2026-08-11T03:05:14.118829"
+    },
+    {
+      "english": "Listen first, then speak with care",
+      "greek": "Άκου πρώτα, μετά μίλα με φροντίδα",
+      "category": "Kindness",
+      "generated_at": "2026-08-11T03:05:14.118830"
     }
   ],
-  "last_updated": "2026-08-10T22:42:01.154434"
+  "last_updated": "2026-08-11T03:05:14.118831"
 }
