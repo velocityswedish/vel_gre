@@ -16919,7 +16919,37 @@
       "greek": "Μετέτρεψε την αμφιβολία σε ερωτήσεις, βρες τις απαντήσεις",
       "category": "Purpose",
       "generated_at": "2026-08-11T22:49:20.997477"
+    },
+    {
+      "english": "I speak up, even if my voice shakes.",
+      "greek": "Μιλάω, κι ας τρέμει η φωνή μου.",
+      "category": "Confidence",
+      "generated_at": "2026-08-12T03:23:57.106063"
+    },
+    {
+      "english": "I choose calm, when my day gets noisy.",
+      "greek": "Διαλέγω ηρεμία, όταν η μέρα φωνάζει.",
+      "category": "Confidence",
+      "generated_at": "2026-08-12T03:23:57.106071"
+    },
+    {
+      "english": "My thoughts reset, I stand tall again.",
+      "greek": "Οι σκέψεις μου ξαναρχίζουν, στέκομαι όρθιος πάλι.",
+      "category": "Confidence",
+      "generated_at": "2026-08-12T03:23:57.106073"
+    },
+    {
+      "english": "I ask, then I breathe, and I answer.",
+      "greek": "Ρωτάω, μετά αναπνέω, και απαντάω.",
+      "category": "Confidence",
+      "generated_at": "2026-08-12T03:23:57.106074"
+    },
+    {
+      "english": "I learn slowly, my confidence grows quietly.",
+      "greek": "Μαθαίνω σιγά, η σιγουριά μου φουσκώνει.",
+      "category": "Confidence",
+      "generated_at": "2026-08-12T03:23:57.106075"
     }
   ],
-  "last_updated": "2026-08-11T22:49:20.997479"
+  "last_updated": "2026-08-12T03:23:57.106077"
 }
