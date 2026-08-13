@@ -17129,7 +17129,37 @@
       "greek": "Γύρνα τη σελίδα, άφησε τον θόρυβο να σβήσει.",
       "category": "Balance",
       "generated_at": "2026-08-13T14:21:35.285584"
+    },
+    {
+      "english": "Wait, the calm arrives, not your rush",
+      "greek": "Περίμενε, η ηρεμία έρχεται, όχι η βιασύνη",
+      "category": "Patience",
+      "generated_at": "2026-08-13T16:56:02.034784"
+    },
+    {
+      "english": "Breathe slowly, let the moment settle",
+      "greek": "Ανάπνευσε αργά, άφησε τη στιγμή να ησυχάσει",
+      "category": "Patience",
+      "generated_at": "2026-08-13T16:56:02.034793"
+    },
+    {
+      "english": "Patience, like tea, warms without shouting",
+      "greek": "Η υπομονή, σαν το τσάι, ζεσταίνει χωρίς φωνές",
+      "category": "Patience",
+      "generated_at": "2026-08-13T16:56:02.034795"
+    },
+    {
+      "english": "Listen first, answers show up later",
+      "greek": "Άκου πρώτα, οι απαντήσεις έρχονται μετά",
+      "category": "Patience",
+      "generated_at": "2026-08-13T16:56:02.034796"
+    },
+    {
+      "english": "Hold the key, the door turns quietly",
+      "greek": "Κράτα το κλειδί, η πόρτα γυρίζει σιγά",
+      "category": "Patience",
+      "generated_at": "2026-08-13T16:56:02.034796"
     }
   ],
-  "last_updated": "2026-08-13T14:21:35.285586"
+  "last_updated": "2026-08-13T16:56:02.034798"
 }
