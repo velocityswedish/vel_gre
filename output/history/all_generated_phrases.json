@@ -17279,7 +17279,37 @@
       "greek": "Άκου ήχους, σαν μακρινοί κυματισμοί.",
       "category": "Mindfulness",
       "generated_at": "2026-08-14T14:15:11.723173"
+    },
+    {
+      "english": "Good morning, breathe in, begin softly",
+      "greek": "Καλημέρα, πάρε ανάσα, ξεκίνα ήσυχα",
+      "category": "Joy",
+      "generated_at": "2026-08-14T16:51:07.494913"
+    },
+    {
+      "english": "Sun on your window, smile, carry on",
+      "greek": "Ο ήλιος στο παράθυρο, χαμογέλα, προχώρα",
+      "category": "Joy",
+      "generated_at": "2026-08-14T16:51:07.494927"
+    },
+    {
+      "english": "Tea first, worries later, pour calm",
+      "greek": "Τσάι πρώτα, οι έγνοιες μετά, ρίξε ηρεμία",
+      "category": "Joy",
+      "generated_at": "2026-08-14T16:51:07.494929"
+    },
+    {
+      "english": "Music in the kitchen, move gently, breathe",
+      "greek": "Μουσική στην κουζίνα, κίνησε απαλά, ανάσα",
+      "category": "Joy",
+      "generated_at": "2026-08-14T16:51:07.494930"
+    },
+    {
+      "english": "Look at the sky, today feels brighter",
+      "greek": "Κοίτα τον ουρανό, σήμερα φωτίζει αλλιώς",
+      "category": "Joy",
+      "generated_at": "2026-08-14T16:51:07.494932"
     }
   ],
-  "last_updated": "2026-08-14T14:15:11.723174"
+  "last_updated": "2026-08-14T16:51:07.494935"
 }
