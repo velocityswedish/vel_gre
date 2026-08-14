@@ -17309,7 +17309,37 @@
       "greek": "Κοίτα τον ουρανό, σήμερα φωτίζει αλλιώς",
       "category": "Joy",
       "generated_at": "2026-08-14T16:51:07.494932"
+    },
+    {
+      "english": "Tea steams, breathe slowly, today is yours",
+      "greek": "Ο ατμός του τσαγιού, πάρε αργά ανάσα, δικό σου",
+      "category": "Growth",
+      "generated_at": "2026-08-14T19:44:53.476045"
+    },
+    {
+      "english": "Morning bus stops, you choose the next ride",
+      "greek": "Στη στάση του λεωφορείου, εσύ διαλέγεις",
+      "category": "Growth",
+      "generated_at": "2026-08-14T19:44:53.476055"
+    },
+    {
+      "english": "When keys jingle, start with one task",
+      "greek": "Όταν τσικνάνε τα κλειδιά, ξεκίνα με ένα",
+      "category": "Growth",
+      "generated_at": "2026-08-14T19:44:53.476057"
+    },
+    {
+      "english": "City noise fades, your focus grows quietly",
+      "greek": "Ο θόρυβος σβήνει, η συγκέντρωση μεγαλώνει ήσυχα",
+      "category": "Growth",
+      "generated_at": "2026-08-14T19:44:53.476058"
+    },
+    {
+      "english": "Fold the day, one page, then another",
+      "greek": "Δίπλωσε τη μέρα, μια σελίδα, μετά",
+      "category": "Growth",
+      "generated_at": "2026-08-14T19:44:53.476059"
     }
   ],
-  "last_updated": "2026-08-14T16:51:07.494935"
+  "last_updated": "2026-08-14T19:44:53.476061"
 }
