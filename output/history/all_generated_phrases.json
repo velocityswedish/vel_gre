@@ -17459,7 +17459,37 @@
       "greek": "Σκαλώνω, μετά ξαναβάζω τον ρυθμό μου.",
       "category": "Confidence",
       "generated_at": "2026-08-15T16:22:23.375698"
+    },
+    {
+      "english": "Today, answer one small question, quietly.",
+      "greek": "Σήμερα, απάντησε μία μικρή ερώτηση, ήσυχα.",
+      "category": "Purpose",
+      "generated_at": "2026-08-15T19:18:21.513233"
+    },
+    {
+      "english": "While coffee brews, plan your next move.",
+      "greek": "Όσο βράζει ο καφές, σχεδίασε το επόμενο βήμα.",
+      "category": "Purpose",
+      "generated_at": "2026-08-15T19:18:21.513258"
+    },
+    {
+      "english": "In the noise, choose one clear priority.",
+      "greek": "Στο θόρυβο, διάλεξε μία καθαρή προτεραιότητα.",
+      "category": "Purpose",
+      "generated_at": "2026-08-15T19:18:21.513260"
+    },
+    {
+      "english": "Between tasks, stretch your mind a little.",
+      "greek": "Ανάμεσα στις δουλειές, τέντωσε λίγο τον νου.",
+      "category": "Purpose",
+      "generated_at": "2026-08-15T19:18:21.513261"
+    },
+    {
+      "english": "Open the notebook, start the lesson kindly.",
+      "greek": "Άνοιξε το τετράδιο, ξεκίνα τη μάθηση με καλοσύνη.",
+      "category": "Purpose",
+      "generated_at": "2026-08-15T19:18:21.513262"
     }
   ],
-  "last_updated": "2026-08-15T16:22:23.375699"
+  "last_updated": "2026-08-15T19:18:21.513264"
 }
