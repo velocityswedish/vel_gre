@@ -17639,7 +17639,37 @@
       "greek": "Μετέτρεψε τον πόνο σε καύσιμο, σιωπηλά, κάθε μέρα",
       "category": "Strength",
       "generated_at": "2026-08-16T19:18:13.595005"
+    },
+    {
+      "english": "Before you leave, offer one warm word.",
+      "greek": "Πριν φύγεις, πρόσφερε μια ζεστή λέξη.",
+      "category": "Kindness",
+      "generated_at": "2026-08-16T22:25:53.296583"
+    },
+    {
+      "english": "Hold the door, and smile quietly.",
+      "greek": "Κράτα την πόρτα, και χαμογέλα σιγά.",
+      "category": "Kindness",
+      "generated_at": "2026-08-16T22:25:53.296596"
+    },
+    {
+      "english": "Share your water, kindness follows thirst.",
+      "greek": "Μοίρασε το νερό, η καλοσύνη έρχεται.",
+      "category": "Kindness",
+      "generated_at": "2026-08-16T22:25:53.296598"
+    },
+    {
+      "english": "Listen first, then answer with care.",
+      "greek": "Άκου πρώτα, μετά απάντησε με φροντίδα.",
+      "category": "Kindness",
+      "generated_at": "2026-08-16T22:25:53.296599"
+    },
+    {
+      "english": "Pick up litter, make the street kinder.",
+      "greek": "Μάζεψε τα σκουπίδια, κάνε τον δρόμο ήπιο.",
+      "category": "Kindness",
+      "generated_at": "2026-08-16T22:25:53.296600"
     }
   ],
-  "last_updated": "2026-08-16T19:18:13.595007"
+  "last_updated": "2026-08-16T22:25:53.296602"
 }
