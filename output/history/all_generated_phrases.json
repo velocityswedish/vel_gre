@@ -17669,7 +17669,37 @@
       "greek": "Μάζεψε τα σκουπίδια, κάνε τον δρόμο ήπιο.",
       "category": "Kindness",
       "generated_at": "2026-08-16T22:25:53.296600"
+    },
+    {
+      "english": "Notice your breath, soften your shoulders",
+      "greek": "Πρόσεξε την ανάσα σου, χαλάρωσε τους ώμους",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-17T02:20:07.164524"
+    },
+    {
+      "english": "Listen to the room, let thoughts pass",
+      "greek": "Άκου τον χώρο, άσε τις σκέψεις να περνούν",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-17T02:20:07.164531"
+    },
+    {
+      "english": "Feel your feet, grounding here and now",
+      "greek": "Νιώσε τα πόδια σου, ριζώνεις εδώ τώρα",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-17T02:20:07.164533"
+    },
+    {
+      "english": "Sip the moment, slow down your mind",
+      "greek": "Γεύσου τη στιγμή, επιβράδυνε το μυαλό",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-17T02:20:07.164534"
+    },
+    {
+      "english": "Clouds drift by, your attention stays steady",
+      "greek": "Τα σύννεφα περνούν, η προσοχή μένει σταθερή",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-17T02:20:07.164535"
     }
   ],
-  "last_updated": "2026-08-16T22:25:53.296602"
+  "last_updated": "2026-08-17T02:20:07.164537"
 }
