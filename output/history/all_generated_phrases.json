@@ -18119,7 +18119,37 @@
       "greek": "Ποτίζω την ελπίδα, μια ανάσα κάθε φορά",
       "category": "Hope",
       "generated_at": "2026-08-20T02:18:30.852185"
+    },
+    {
+      "english": "Wait, the kettle whistles when ready.",
+      "greek": "Περίμενε, ο βραστήρας σφυρίζει όταν είναι έτοιμος.",
+      "category": "Patience",
+      "generated_at": "2026-08-20T13:43:55.355640"
+    },
+    {
+      "english": "Slow breaths, the storm passes by.",
+      "greek": "Αργές ανάσες, η καταιγίδα περνάει.",
+      "category": "Patience",
+      "generated_at": "2026-08-20T13:43:55.355649"
+    },
+    {
+      "english": "Pause, even stones learn by time.",
+      "greek": "Στάσου, ακόμη και οι πέτρες μαθαίνουν με τον χρόνο.",
+      "category": "Patience",
+      "generated_at": "2026-08-20T13:43:55.355650"
+    },
+    {
+      "english": "Let the page turn, not your hands.",
+      "greek": "Άσε τη σελίδα να γυρίσει, όχι τα χέρια σου.",
+      "category": "Patience",
+      "generated_at": "2026-08-20T13:43:55.355652"
+    },
+    {
+      "english": "Listen first, answers arrive like morning.",
+      "greek": "Άκου πρώτα, οι απαντήσεις έρχονται σαν πρωί.",
+      "category": "Patience",
+      "generated_at": "2026-08-20T13:43:55.355653"
     }
   ],
-  "last_updated": "2026-08-20T02:18:30.852186"
+  "last_updated": "2026-08-20T13:43:55.355654"
 }
