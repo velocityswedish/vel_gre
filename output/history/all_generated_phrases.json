@@ -19169,7 +19169,37 @@
       "greek": "Πάρε το μέρος τους, χωρίς φωνές, διάλεξε χάρη",
       "category": "Kindness",
       "generated_at": "2026-08-27T10:58:48.746250"
+    },
+    {
+      "english": "Breath in, soften your shoulders, now.",
+      "greek": "Εισπνοή, χαλάρωσε τους ώμους, τώρα.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-27T22:48:04.631372"
+    },
+    {
+      "english": "Listen quietly, the street hum is teaching.",
+      "greek": "Άκου ήσυχα, ο δρόμος σε διδάσκει.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-27T22:48:04.631381"
+    },
+    {
+      "english": "Notice the cup, warmth stays, you return.",
+      "greek": "Δες το φλιτζάνι, η ζεστασιά μένει, γύρνα.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-27T22:48:04.631382"
+    },
+    {
+      "english": "Name one feeling, then let it pass.",
+      "greek": "Πες ένα συναίσθημα, μετά άσε το να φύγει.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-27T22:48:04.631383"
+    },
+    {
+      "english": "Eyes forward, feet grounded, mind steady.",
+      "greek": "Κοίτα μπροστά, πατάς γερά, ο νους ήρεμος.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-27T22:48:04.631384"
     }
   ],
-  "last_updated": "2026-08-27T10:58:48.746251"
+  "last_updated": "2026-08-27T22:48:04.631386"
 }
