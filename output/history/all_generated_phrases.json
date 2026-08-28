@@ -19289,7 +19289,37 @@
       "greek": "Μια δουλειά, μετά ανάσα, χτίζεις ορμή.",
       "category": "Success",
       "generated_at": "2026-08-28T06:01:55.537421"
+    },
+    {
+      "english": "Hope warms, like sun on winter stone",
+      "greek": "Η ελπίδα ζεσταίνει, σαν ήλιος σε χειμωνιάτικη πέτρα",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:33:49.500572"
+    },
+    {
+      "english": "When night comes, I hold one star",
+      "greek": "Όταν πέφτει η νύχτα, κρατάω ένα αστέρι",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:33:49.500585"
+    },
+    {
+      "english": "I write tomorrow, even with tired hands",
+      "greek": "Γράφω το αύριο, κι ας είναι κουρασμένα χέρια",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:33:49.500587"
+    },
+    {
+      "english": "Hope rises, with every careful breath",
+      "greek": "Η ελπίδα ανεβαίνει, με κάθε προσεκτική ανάσα",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:33:49.500588"
+    },
+    {
+      "english": "I listen, for footsteps of better days",
+      "greek": "Ακούω, για βήματα από καλύτερες μέρες",
+      "category": "Hope",
+      "generated_at": "2026-08-28T12:33:49.500589"
     }
   ],
-  "last_updated": "2026-08-28T06:01:55.537422"
+  "last_updated": "2026-08-28T12:33:49.500591"
 }
