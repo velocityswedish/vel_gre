@@ -19709,7 +19709,37 @@
       "greek": "Όταν τα φύλλα θολώνουν, σταμάτα και πες χρώματα",
       "category": "Growth",
       "generated_at": "2026-08-30T21:50:05.353938"
+    },
+    {
+      "english": "Feel your breath, soften your shoulders, now.",
+      "greek": "Νιώσε την ανάσα σου, μαλάκωσε τους ώμους σου, τώρα.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-31T00:18:53.019572"
+    },
+    {
+      "english": "Notice the light, even in small windows.",
+      "greek": "Δες το φως, ακόμη και στα μικρά παράθυρα.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-31T00:18:53.019579"
+    },
+    {
+      "english": "Let thoughts pass, like clouds over hills.",
+      "greek": "Άφησε τις σκέψεις, να περνούν σαν σύννεφα.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-31T00:18:53.019580"
+    },
+    {
+      "english": "Hear the room, hear yourself, quietly.",
+      "greek": "Άκου τον χώρο, άκου εσένα, ήσυχα.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-31T00:18:53.019581"
+    },
+    {
+      "english": "Drink water slowly, your body wakes up.",
+      "greek": "Πιες νερό αργά, το σώμα ξυπνά.",
+      "category": "Mindfulness",
+      "generated_at": "2026-08-31T00:18:53.019583"
     }
   ],
-  "last_updated": "2026-08-30T21:50:05.353939"
+  "last_updated": "2026-08-31T00:18:53.019584"
 }
