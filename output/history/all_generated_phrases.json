@@ -20129,7 +20129,37 @@
       "greek": "Σταματάω, ακούω, διαλέγω.",
       "category": "Confidence",
       "generated_at": "2026-09-02T19:14:26.884722"
+    },
+    {
+      "english": "Courage waits, then you step forward.",
+      "greek": "Το θάρρος περιμένει, και εσύ προχωράς.",
+      "category": "Courage",
+      "generated_at": "2026-09-02T21:32:14.557325"
+    },
+    {
+      "english": "Say it now, your fear softens.",
+      "greek": "Πες το τώρα, ο φόβος μαλακώνει.",
+      "category": "Courage",
+      "generated_at": "2026-09-02T21:32:14.557337"
+    },
+    {
+      "english": "My knees shake, I still walk.",
+      "greek": "Τα γόνατά μου τρέμουν, ακόμα περπατώ.",
+      "category": "Courage",
+      "generated_at": "2026-09-02T21:32:14.557339"
+    },
+    {
+      "english": "Turn the key, breathe, and begin.",
+      "greek": "Γύρνα το κλειδί, ανάσα, και ξεκίνα.",
+      "category": "Courage",
+      "generated_at": "2026-09-02T21:32:14.557340"
+    },
+    {
+      "english": "Even silence can be brave.",
+      "greek": "Κι η σιωπή, μπορεί να είναι γενναία.",
+      "category": "Courage",
+      "generated_at": "2026-09-02T21:32:14.557341"
     }
   ],
-  "last_updated": "2026-09-02T19:14:26.884724"
+  "last_updated": "2026-09-02T21:32:14.557343"
 }
