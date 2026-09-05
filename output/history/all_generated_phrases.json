@@ -20549,7 +20549,37 @@
       "greek": "Η προσπάθειά σου μετρά, σαν κόκκοι άμμου",
       "category": "Motivation",
       "generated_at": "2026-09-05T15:46:49.023839"
+    },
+    {
+      "english": "My coffee warms me, I notice it.",
+      "greek": "Ο καφές με ζεσταίνει, το βλέπω.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-05T17:55:55.600266"
+    },
+    {
+      "english": "Thanks, for the bus arriving on time.",
+      "greek": "Ευχαριστώ, για το λεωφορείο που έρχεται στην ώρα του.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-05T17:55:55.600278"
+    },
+    {
+      "english": "I’m grateful, for clean sheets after sleep.",
+      "greek": "Είμαι ευγνώμων, για τα καθαρά σεντόνια μετά τον ύπνο.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-05T17:55:55.600280"
+    },
+    {
+      "english": "In the kitchen, I appreciate simple salt.",
+      "greek": "Στην κουζίνα, εκτιμώ το απλό αλάτι.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-05T17:55:55.600281"
+    },
+    {
+      "english": "Tonight, I thank my tired body.",
+      "greek": "Απόψε, ευχαριστώ το κουρασμένο σώμα μου.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-05T17:55:55.600283"
     }
   ],
-  "last_updated": "2026-09-05T15:46:49.023841"
+  "last_updated": "2026-09-05T17:55:55.600285"
 }
