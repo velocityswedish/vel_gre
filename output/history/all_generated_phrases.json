@@ -20699,7 +20699,37 @@
       "greek": "Διάλεξε την επόμενη πράξη, μετά χαλάρωσε",
       "category": "Self Improvement",
       "generated_at": "2026-09-06T15:59:24.035557"
+    },
+    {
+      "english": "I share laughs, you share calm, always.",
+      "greek": "Μοιράζομαι γέλια, εσύ μοιράζεις ηρεμία, πάντα.",
+      "category": "Friendship",
+      "generated_at": "2026-09-06T18:02:27.646804"
+    },
+    {
+      "english": "Your texts feel like warm bread.",
+      "greek": "Τα μηνύματά σου, μοιάζουν με ζεστό ψωμί.",
+      "category": "Friendship",
+      "generated_at": "2026-09-06T18:02:27.646813"
+    },
+    {
+      "english": "When skies darken, we walk together.",
+      "greek": "Όταν μαυρίζει ο ουρανός, περπατάμε μαζί.",
+      "category": "Friendship",
+      "generated_at": "2026-09-06T18:02:27.646815"
+    },
+    {
+      "english": "My worries shrink, when you call.",
+      "greek": "Οι έγνοιές μου μικραίνουν, όταν με καλείς.",
+      "category": "Friendship",
+      "generated_at": "2026-09-06T18:02:27.646816"
+    },
+    {
+      "english": "You listen first, I feel safer.",
+      "greek": "Εσύ ακούς πρώτα, εγώ νιώθω πιο ασφαλής.",
+      "category": "Friendship",
+      "generated_at": "2026-09-06T18:02:27.646817"
     }
   ],
-  "last_updated": "2026-09-06T15:59:24.035559"
+  "last_updated": "2026-09-06T18:02:27.646818"
 }
