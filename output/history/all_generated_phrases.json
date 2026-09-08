@@ -21059,7 +21059,37 @@
       "greek": "Χρωμάτισε τη μέρα σου, έστω για πέντε ανάσες.",
       "category": "Creativity",
       "generated_at": "2026-09-08T21:32:46.894439"
+    },
+    {
+      "english": "Hope warms the morning, quietly, like bread.",
+      "greek": "Η ελπίδα ζεσταίνει το πρωί, ήσυχα, σαν ψωμί.",
+      "category": "Hope",
+      "generated_at": "2026-09-08T23:57:11.773481"
+    },
+    {
+      "english": "I carry hope, folded, in my pocket.",
+      "greek": "Κρατάω την ελπίδα, διπλωμένη, στην τσέπη μου.",
+      "category": "Hope",
+      "generated_at": "2026-09-08T23:57:11.773490"
+    },
+    {
+      "english": "When rain comes, I look for breaks.",
+      "greek": "Όταν έρθει η βροχή, κοιτάω για ανοίγματα.",
+      "category": "Hope",
+      "generated_at": "2026-09-08T23:57:11.773491"
+    },
+    {
+      "english": "Hope is a candle, steady, in wind.",
+      "greek": "Η ελπίδα είναι ένα κερί, σταθερό, στον άνεμο.",
+      "category": "Hope",
+      "generated_at": "2026-09-08T23:57:11.773492"
+    },
+    {
+      "english": "Today feels heavy, but hope is light.",
+      "greek": "Σήμερα βαραίνει, μα η ελπίδα είναι φως.",
+      "category": "Hope",
+      "generated_at": "2026-09-08T23:57:11.773493"
     }
   ],
-  "last_updated": "2026-09-08T21:32:46.894441"
+  "last_updated": "2026-09-08T23:57:11.773495"
 }
