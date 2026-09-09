@@ -21089,7 +21089,37 @@
       "greek": "Σήμερα βαραίνει, μα η ελπίδα είναι φως.",
       "category": "Hope",
       "generated_at": "2026-09-08T23:57:11.773493"
+    },
+    {
+      "english": "Breathe in, shoulders down, feel steady.",
+      "greek": "Πάρε ανάσα, χαμήλωσε ώμους, νιώσε σταθερή.",
+      "category": "Balance",
+      "generated_at": "2026-09-09T05:47:01.155758"
+    },
+    {
+      "english": "Mind the quiet, balance returns to you.",
+      "greek": "Πρόσεχε τη σιωπή, η ισορροπία γυρίζει σε εσένα.",
+      "category": "Balance",
+      "generated_at": "2026-09-09T05:47:01.155767"
+    },
+    {
+      "english": "When you drift, notice, gently steer back.",
+      "greek": "Όταν σε παίρνει, παρατήρησε, γύρνα ήρεμα.",
+      "category": "Balance",
+      "generated_at": "2026-09-09T05:47:01.155769"
+    },
+    {
+      "english": "Feet on the floor, listen to time.",
+      "greek": "Πατούσες στη γη, άκου τον χρόνο.",
+      "category": "Balance",
+      "generated_at": "2026-09-09T05:47:01.155770"
+    },
+    {
+      "english": "Slow your hands, let your thoughts settle.",
+      "greek": "Αργοκίνησε τα χέρια, άφησε τις σκέψεις.",
+      "category": "Balance",
+      "generated_at": "2026-09-09T05:47:01.155771"
     }
   ],
-  "last_updated": "2026-09-08T23:57:11.773495"
+  "last_updated": "2026-09-09T05:47:01.155773"
 }
