@@ -21209,7 +21209,37 @@
       "greek": "Γλυκές λέξεις, σαν σπόροι, μεγαλώνουν ήσυχα",
       "category": "Positive Life",
       "generated_at": "2026-09-09T21:29:09.852919"
+    },
+    {
+      "english": "Even rain passes, hope stays nearby",
+      "greek": "Ακόμα κι η βροχή περνά, η ελπίδα μένει",
+      "category": "Hope",
+      "generated_at": "2026-09-09T23:56:35.640242"
+    },
+    {
+      "english": "I breathe again, tomorrow feels gentler",
+      "greek": "Παίρνω ανάσα πάλι, αύριο είναι πιο ήρεμο",
+      "category": "Hope",
+      "generated_at": "2026-09-09T23:56:35.640258"
+    },
+    {
+      "english": "At dawn, my thoughts find light",
+      "greek": "Στο ξημέρωμα, οι σκέψεις μου βρίσκουν φως",
+      "category": "Hope",
+      "generated_at": "2026-09-09T23:56:35.640260"
+    },
+    {
+      "english": "The road bends, hope points forward",
+      "greek": "Ο δρόμος λυγίζει, η ελπίδα δείχνει μπρος",
+      "category": "Hope",
+      "generated_at": "2026-09-09T23:56:35.640261"
+    },
+    {
+      "english": "My worry fades, like shadows in sun",
+      "greek": "Η ανησυχία μου σβήνει, σαν σκιές στον ήλιο",
+      "category": "Hope",
+      "generated_at": "2026-09-09T23:56:35.640263"
     }
   ],
-  "last_updated": "2026-09-09T21:29:09.852921"
+  "last_updated": "2026-09-09T23:56:35.640265"
 }
