@@ -21269,7 +21269,37 @@
       "greek": "Κράτα χαμηλά το βλέμμα, έρχονται τα χρώματα.",
       "category": "Mindfulness",
       "generated_at": "2026-09-10T05:41:58.216140"
+    },
+    {
+      "english": "My feet listen, my mind follows, steady.",
+      "greek": "Τα πόδια ακούνε, το μυαλό ακολουθεί, σταθερά.",
+      "category": "Confidence",
+      "generated_at": "2026-09-10T16:54:27.498438"
+    },
+    {
+      "english": "I test one idea, then I trust it.",
+      "greek": "Δοκιμάζω μια ιδέα, μετά την εμπιστεύομαι.",
+      "category": "Confidence",
+      "generated_at": "2026-09-10T16:54:27.498450"
+    },
+    {
+      "english": "Today I can, even softly, and that counts.",
+      "greek": "Σήμερα μπορώ, έστω και σιγά, μετράει.",
+      "category": "Confidence",
+      "generated_at": "2026-09-10T16:54:27.498452"
+    },
+    {
+      "english": "I speak, I breathe, I adjust, calmly.",
+      "greek": "Μιλώ, αναπνέω, διορθώνω, ήρεμα.",
+      "category": "Confidence",
+      "generated_at": "2026-09-10T16:54:27.498453"
+    },
+    {
+      "english": "When doubt knocks, I choose action first.",
+      "greek": "Όταν η αμφιβολία χτυπά, διαλέγω πράξη.",
+      "category": "Confidence",
+      "generated_at": "2026-09-10T16:54:27.498454"
     }
   ],
-  "last_updated": "2026-09-10T05:41:58.216141"
+  "last_updated": "2026-09-10T16:54:27.498456"
 }
