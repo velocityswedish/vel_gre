@@ -21479,7 +21479,37 @@
       "greek": "Το πράσινο στο παράθυρο, μου γυρίζει η ανάσα.",
       "category": "Happiness",
       "generated_at": "2026-09-11T18:59:57.898144"
+    },
+    {
+      "english": "Morning light, open your notebook, breathe.",
+      "greek": "Πρωινό φως, άνοιξε το τετράδιο σου, ανάσα.",
+      "category": "Growth",
+      "generated_at": "2026-09-11T21:32:10.362074"
+    },
+    {
+      "english": "When coffee cools, plan one kind action.",
+      "greek": "Όταν κρυώνει ο καφές, σχεδίασε μια καλή πράξη.",
+      "category": "Growth",
+      "generated_at": "2026-09-11T21:32:10.362084"
+    },
+    {
+      "english": "Lost keys, find patience, walk slower.",
+      "greek": "Χαμένες κλειδαριές, βρες υπομονή, περπάτα αργά.",
+      "category": "Growth",
+      "generated_at": "2026-09-11T21:32:10.362086"
+    },
+    {
+      "english": "Turn off noise, listen to your body.",
+      "greek": "Κλείσε τον θόρυβο, άκου το σώμα σου.",
+      "category": "Growth",
+      "generated_at": "2026-09-11T21:32:10.362087"
+    },
+    {
+      "english": "One email later, forgive delays, restart gently.",
+      "greek": "Ένα email μετά, συγχώρεσε την καθυστέρηση, ξανά απαλά.",
+      "category": "Growth",
+      "generated_at": "2026-09-11T21:32:10.362088"
     }
   ],
-  "last_updated": "2026-09-11T18:59:57.898146"
+  "last_updated": "2026-09-11T21:32:10.362090"
 }
