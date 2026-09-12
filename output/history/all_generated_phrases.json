@@ -21569,7 +21569,37 @@
       "greek": "Κι ο κεραυνός περνά, άναψε την καρδιά",
       "category": "Courage",
       "generated_at": "2026-09-12T05:28:35.460116"
+    },
+    {
+      "english": "Morning light calms my thoughts, I breathe slowly",
+      "greek": "Το πρωινό φως ηρεμεί το μυαλό μου, αναπνέω αργά",
+      "category": "Balance",
+      "generated_at": "2026-09-12T15:59:50.600995"
+    },
+    {
+      "english": "Before tasks, I check my body, relaxed",
+      "greek": "Πριν από δουλειές, ελέγχω το σώμα μου, ήρεμο",
+      "category": "Balance",
+      "generated_at": "2026-09-12T15:59:50.601004"
+    },
+    {
+      "english": "I sip quiet water, my mind steadies",
+      "greek": "Πίνω ήσυχο νερό, ο νους μου σταθερός",
+      "category": "Balance",
+      "generated_at": "2026-09-12T15:59:50.601006"
+    },
+    {
+      "english": "Shoes on, worries off, I move",
+      "greek": "Βάζω παπούτσια, βγάζω ανησυχίες, προχωρώ",
+      "category": "Balance",
+      "generated_at": "2026-09-12T15:59:50.601007"
+    },
+    {
+      "english": "My desk says, breathe out, then begin",
+      "greek": "Το γραφείο μου λέει, εκπνοή, μετά ξεκινάς",
+      "category": "Balance",
+      "generated_at": "2026-09-12T15:59:50.601008"
     }
   ],
-  "last_updated": "2026-09-12T05:28:35.460118"
+  "last_updated": "2026-09-12T15:59:50.601010"
 }
