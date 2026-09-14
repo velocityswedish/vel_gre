@@ -21899,7 +21899,37 @@
       "greek": "Το μεσημεριανό γελάει, μέσα στο στήθος μου.",
       "category": "Happiness",
       "generated_at": "2026-09-14T18:21:14.727884"
+    },
+    {
+      "english": "I can breathe, I can speak, today.",
+      "greek": "Μπορώ να αναπνεύσω, μπορώ να μιλήσω, σήμερα.",
+      "category": "Confidence",
+      "generated_at": "2026-09-14T20:10:08.358416"
+    },
+    {
+      "english": "My voice is steady, even softly.",
+      "greek": "Η φωνή μου είναι σταθερή, κι ας είναι απαλή.",
+      "category": "Confidence",
+      "generated_at": "2026-09-14T20:10:08.358427"
+    },
+    {
+      "english": "Mistakes tap me, then I learn.",
+      "greek": "Τα λάθη με χτυπούν, μετά μαθαίνω.",
+      "category": "Confidence",
+      "generated_at": "2026-09-14T20:10:08.358429"
+    },
+    {
+      "english": "I step forward, one word at a time.",
+      "greek": "Προχωρώ, μια λέξη κάθε φορά.",
+      "category": "Confidence",
+      "generated_at": "2026-09-14T20:10:08.358430"
+    },
+    {
+      "english": "Today, I practice, my worry listens.",
+      "greek": "Σήμερα εξασκούμαι, η ανησυχία ακούει.",
+      "category": "Confidence",
+      "generated_at": "2026-09-14T20:10:08.358432"
     }
   ],
-  "last_updated": "2026-09-14T18:21:14.727886"
+  "last_updated": "2026-09-14T20:10:08.358433"
 }
