@@ -22049,7 +22049,37 @@
       "greek": "Στην κουζίνα, ανακάτεψε αργά, άκου μέσα σου",
       "category": "Balance",
       "generated_at": "2026-09-15T17:28:50.644329"
+    },
+    {
+      "english": "Say hello first, courage opens doors, softly.",
+      "greek": "Πες γεια πρώτα, η γενναιότητα ανοίγει πόρτες, απαλά.",
+      "category": "Courage",
+      "generated_at": "2026-09-15T19:32:44.819380"
+    },
+    {
+      "english": "Ask one question, even your hands tremble.",
+      "greek": "Ρώτα μια ερώτηση, κι ας τρέμουν τα χέρια.",
+      "category": "Courage",
+      "generated_at": "2026-09-15T19:32:44.819390"
+    },
+    {
+      "english": "Walk in rain, fear steps back, behind you.",
+      "greek": "Περπάτα στη βροχή, ο φόβος κάνει πίσω, πίσω.",
+      "category": "Courage",
+      "generated_at": "2026-09-15T19:32:44.819391"
+    },
+    {
+      "english": "Choose the hard path, then breathe steady.",
+      "greek": "Διάλεξε το δύσκολο μονοπάτι, μετά ανάσα σταθερή.",
+      "category": "Courage",
+      "generated_at": "2026-09-15T19:32:44.819392"
+    },
+    {
+      "english": "Stand in line, your voice grows warm.",
+      "greek": "Στάσου στην ουρά, η φωνή σου ζεσταίνεται.",
+      "category": "Courage",
+      "generated_at": "2026-09-15T19:32:44.819393"
     }
   ],
-  "last_updated": "2026-09-15T17:28:50.644331"
+  "last_updated": "2026-09-15T19:32:44.819394"
 }
