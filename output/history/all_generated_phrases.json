@@ -22979,7 +22979,37 @@
       "greek": "Πάρε ανάσα ήρεμα, κάνε ένα βήμα μπροστά",
       "category": "Success",
       "generated_at": "2026-09-21T20:17:02.624746"
+    },
+    {
+      "english": "My voice returns, I try again, calmly.",
+      "greek": "Η φωνή μου γυρίζει, προσπαθώ ξανά, ήρεμα.",
+      "category": "Confidence",
+      "generated_at": "2026-09-21T22:24:54.567447"
+    },
+    {
+      "english": "I can learn this, one moment, at a time.",
+      "greek": "Μαθαίνω, μια στιγμή, κάθε φορά.",
+      "category": "Confidence",
+      "generated_at": "2026-09-21T22:24:54.567458"
+    },
+    {
+      "english": "Even mistakes speak, I listen, then adjust.",
+      "greek": "Τα λάθη μιλούν, ακούω, μετά διορθώνω.",
+      "category": "Confidence",
+      "generated_at": "2026-09-21T22:24:54.567459"
+    },
+    {
+      "english": "I stand up straight, and breathe, before answers.",
+      "greek": "Στέκομαι ίσια, παίρνω ανάσα, πριν απαντήσω.",
+      "category": "Confidence",
+      "generated_at": "2026-09-21T22:24:54.567461"
+    },
+    {
+      "english": "Today I carry courage, like a small lantern.",
+      "greek": "Σήμερα κουβαλάω θάρρος, σαν μικρό φανάρι.",
+      "category": "Confidence",
+      "generated_at": "2026-09-21T22:24:54.567462"
     }
   ],
-  "last_updated": "2026-09-21T20:17:02.624747"
+  "last_updated": "2026-09-21T22:24:54.567464"
 }
