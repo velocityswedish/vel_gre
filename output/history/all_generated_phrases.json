@@ -23039,7 +23039,37 @@
       "greek": "Απάντησε στη μέρα, με μια πρόταση ελληνικά",
       "category": "Purpose",
       "generated_at": "2026-09-22T00:40:25.642822"
+    },
+    {
+      "english": "Order your day, then breathe, then act.",
+      "greek": "Τακτοποίησε τη μέρα σου, μετά ανάπνευσε, δράσε.",
+      "category": "Success",
+      "generated_at": "2026-09-22T05:55:09.836503"
+    },
+    {
+      "english": "Morning light calls you, answer gently.",
+      "greek": "Το πρωινό φως σε καλεί, απάντησε ήρεμα.",
+      "category": "Success",
+      "generated_at": "2026-09-22T05:55:09.836513"
+    },
+    {
+      "english": "Coffee first, plans next, smile after.",
+      "greek": "Πρώτα ο καφές, μετά τα σχέδια, μετά το χαμόγελο.",
+      "category": "Success",
+      "generated_at": "2026-09-22T05:55:09.836515"
+    },
+    {
+      "english": "Wash the dishes, clear your mind.",
+      "greek": "Πλύνε τα πιάτα, άδειασε το μυαλό.",
+      "category": "Success",
+      "generated_at": "2026-09-22T05:55:09.836516"
+    },
+    {
+      "english": "Fold the laundry, fold your worries too.",
+      "greek": "Δίπλωσε τα ρούχα, δίπλωσε κι τις ανησυχίες.",
+      "category": "Success",
+      "generated_at": "2026-09-22T05:55:09.836517"
     }
   ],
-  "last_updated": "2026-09-22T00:40:25.642823"
+  "last_updated": "2026-09-22T05:55:09.836519"
 }
