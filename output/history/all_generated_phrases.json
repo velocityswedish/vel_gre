@@ -23069,7 +23069,37 @@
       "greek": "Δίπλωσε τα ρούχα, δίπλωσε κι τις ανησυχίες.",
       "category": "Success",
       "generated_at": "2026-09-22T05:55:09.836517"
+    },
+    {
+      "english": "Wash the cup, then drink, slowly.",
+      "greek": "Πλύνε το ποτήρι, μετά πίνε, αργά.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-22T17:31:29.990049"
+    },
+    {
+      "english": "Speak less, listen more, today.",
+      "greek": "Λιγότερα λόγια, περισσότερη ακρόαση, σήμερα.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-22T17:31:29.990060"
+    },
+    {
+      "english": "Clean your thoughts, keep a quiet desk.",
+      "greek": "Καθάρισε τις σκέψεις, κράτα ένα ήσυχο γραφείο.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-22T17:31:29.990061"
+    },
+    {
+      "english": "When in doubt, ask the sea.",
+      "greek": "Αν αμφιβάλλεις, ρώτα τη θάλασσα.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-22T17:31:29.990063"
+    },
+    {
+      "english": "Tidy one corner, and breathe easier.",
+      "greek": "Τακτοποίησε μια γωνιά, και ανασάνε πιο εύκολα.",
+      "category": "Wisdom",
+      "generated_at": "2026-09-22T17:31:29.990064"
     }
   ],
-  "last_updated": "2026-09-22T05:55:09.836519"
+  "last_updated": "2026-09-22T17:31:29.990066"
 }
