@@ -23099,7 +23099,37 @@
       "greek": "Τακτοποίησε μια γωνιά, και ανασάνε πιο εύκολα.",
       "category": "Wisdom",
       "generated_at": "2026-09-22T17:31:29.990064"
+    },
+    {
+      "english": "Answer quietly, learn daily, breathe again",
+      "greek": "Απάντησε ήσυχα, μάθε κάθε μέρα, ξανά ανάσα",
+      "category": "Inspiration",
+      "generated_at": "2026-09-22T19:35:10.410250"
+    },
+    {
+      "english": "Write one truth, cross out doubt",
+      "greek": "Γράψε μια αλήθεια, σβήσε την αμφιβολία",
+      "category": "Inspiration",
+      "generated_at": "2026-09-22T19:35:10.410260"
+    },
+    {
+      "english": "When fear knocks, offer a smile",
+      "greek": "Όταν ο φόβος χτυπά, δώσε ένα χαμόγελο",
+      "category": "Inspiration",
+      "generated_at": "2026-09-22T19:35:10.410262"
+    },
+    {
+      "english": "Turn the key, start with what you have",
+      "greek": "Γύρισε το κλειδί, ξεκίνα με ό,τι έχεις",
+      "category": "Inspiration",
+      "generated_at": "2026-09-22T19:35:10.410263"
+    },
+    {
+      "english": "Lift your gaze, clouds can pass",
+      "greek": "Σήκωσε το βλέμμα, περνούν τα σύννεφα",
+      "category": "Inspiration",
+      "generated_at": "2026-09-22T19:35:10.410264"
     }
   ],
-  "last_updated": "2026-09-22T17:31:29.990066"
+  "last_updated": "2026-09-22T19:35:10.410265"
 }
