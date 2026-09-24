@@ -23399,7 +23399,37 @@
       "greek": "Νιώσε τα πόδια σου, στηριγμένα, σαν πρωινές πέτρες.",
       "category": "Mindfulness",
       "generated_at": "2026-09-24T17:44:57.343127"
+    },
+    {
+      "english": "Breathe now, soften your shoulders, quietly.",
+      "greek": "Ανάπνευσε τώρα, μαλάκωσε τους ώμους, ήρεμα.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-24T19:48:41.464559"
+    },
+    {
+      "english": "Let thoughts pass, like clouds over sea.",
+      "greek": "Άσε τους λογισμούς, σαν σύννεφα πάνω στη θάλασσα.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-24T19:48:41.464570"
+    },
+    {
+      "english": "Sip calm water, inside you, slowly.",
+      "greek": "Πιες γαλήνη, μέσα σου, αργά.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-24T19:48:41.464572"
+    },
+    {
+      "english": "Count one breath, then release the worry.",
+      "greek": "Μέτρα μια ανάσα, κι άφησε τη στεναχώρια.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-24T19:48:41.464573"
+    },
+    {
+      "english": "Your day is a page, write gently.",
+      "greek": "Η μέρα σου είναι σελίδα, γράψε απαλά.",
+      "category": "Inner Peace",
+      "generated_at": "2026-09-24T19:48:41.464575"
     }
   ],
-  "last_updated": "2026-09-24T17:44:57.343128"
+  "last_updated": "2026-09-24T19:48:41.464576"
 }
