@@ -24149,7 +24149,37 @@
       "greek": "Η φωνή μου έρχεται, κι ας είναι απαλή.",
       "category": "Confidence",
       "generated_at": "2026-09-29T18:27:43.886987"
+    },
+    {
+      "english": "Wake early, write one honest line.",
+      "greek": "Ξύπνα νωρίς, γράψε μία ειλικρινή γραμμή.",
+      "category": "Purpose",
+      "generated_at": "2026-09-29T20:28:18.105083"
+    },
+    {
+      "english": "Carry water, let your hands learn.",
+      "greek": "Κουβάλα νερό, άσε τα χέρια να μάθουν.",
+      "category": "Purpose",
+      "generated_at": "2026-09-29T20:28:18.105099"
+    },
+    {
+      "english": "Ask one question, then listen closely.",
+      "greek": "Ρώτα μια ερώτηση, μετά άκου προσεκτικά.",
+      "category": "Purpose",
+      "generated_at": "2026-09-29T20:28:18.105101"
+    },
+    {
+      "english": "Turn the page, breathe, begin again.",
+      "greek": "Γύρνα τη σελίδα, ανάσα, ξανά αρχή.",
+      "category": "Purpose",
+      "generated_at": "2026-09-29T20:28:18.105102"
+    },
+    {
+      "english": "Make tea, practice calm between tasks.",
+      "greek": "Φτιάξε τσάι, κράτα ηρεμία ανάμεσα στα πράγματα.",
+      "category": "Purpose",
+      "generated_at": "2026-09-29T20:28:18.105104"
     }
   ],
-  "last_updated": "2026-09-29T18:27:43.886989"
+  "last_updated": "2026-09-29T20:28:18.105106"
 }
