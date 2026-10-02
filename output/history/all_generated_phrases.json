@@ -24509,7 +24509,37 @@
       "greek": "Το όνομά σου λάμπει, όταν σκοτεινιάζει.",
       "category": "Love",
       "generated_at": "2026-10-01T22:58:58.342991"
+    },
+    {
+      "english": "Hold the door, be gentle, every day.",
+      "greek": "Κράτα την πόρτα, να είσαι ήπιος, κάθε μέρα.",
+      "category": "Kindness",
+      "generated_at": "2026-10-02T01:27:00.928312"
+    },
+    {
+      "english": "Offer a smile, even when you’re tired.",
+      "greek": "Δώσε ένα χαμόγελο, κι ας είσαι κουρασμένος.",
+      "category": "Kindness",
+      "generated_at": "2026-10-02T01:27:00.928321"
+    },
+    {
+      "english": "Listen first, then speak, kindly and slow.",
+      "greek": "Άκου πρώτα, μετά μίλα, με καλοσύνη, αργά.",
+      "category": "Kindness",
+      "generated_at": "2026-10-02T01:27:00.928323"
+    },
+    {
+      "english": "Share your pen, and relax the moment.",
+      "greek": "Μοιράσου το στυλό, και χαλάρωσε το λεπτό.",
+      "category": "Kindness",
+      "generated_at": "2026-10-02T01:27:00.928324"
+    },
+    {
+      "english": "Leave room for others, no push needed.",
+      "greek": "Άφησε χώρο για τους άλλους, χωρίς σπρώξιμο.",
+      "category": "Kindness",
+      "generated_at": "2026-10-02T01:27:00.928325"
     }
   ],
-  "last_updated": "2026-10-01T22:58:58.342992"
+  "last_updated": "2026-10-02T01:27:00.928327"
 }
