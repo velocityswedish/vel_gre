@@ -24629,7 +24629,37 @@
       "greek": "Ρώτα, άκου, ξαναπροσπάθησε, ήρεμα",
       "category": "Motivation",
       "generated_at": "2026-10-02T20:22:48.145505"
+    },
+    {
+      "english": "Morning light finds me, thank you.",
+      "greek": "Το πρωινό φως με βρίσκει, ευχαριστώ.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-02T22:47:39.105487"
+    },
+    {
+      "english": "My coffee warms me, I’m grateful.",
+      "greek": "Ο καφές μου με ζεσταίνει, είμαι ευγνώμων.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-02T22:47:39.105498"
+    },
+    {
+      "english": "Your kindness returns, like coins, softly.",
+      "greek": "Η καλοσύνη σου επιστρέφει, σαν κέρματα, απαλά.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-02T22:47:39.105499"
+    },
+    {
+      "english": "I breathe easier, because you listened.",
+      "greek": "Αναπνέω πιο εύκολα, γιατί με άκουσες.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-02T22:47:39.105500"
+    },
+    {
+      "english": "Rain taps my window, thanks for shelter.",
+      "greek": "Η βροχή χτυπά το παράθυρο, ευχαριστώ για τη στέγη.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-02T22:47:39.105501"
     }
   ],
-  "last_updated": "2026-10-02T20:22:48.145506"
+  "last_updated": "2026-10-02T22:47:39.105502"
 }
