@@ -24809,7 +24809,37 @@
       "greek": "Προχωράω, σαν φως ανάμεσα στις κουρτίνες",
       "category": "Confidence",
       "generated_at": "2026-10-03T21:57:38.500897"
+    },
+    {
+      "english": "Thank you, for this quiet morning light",
+      "greek": "Ευχαριστώ, για αυτό το ήσυχο πρωινό φως",
+      "category": "Gratitude",
+      "generated_at": "2026-10-04T00:25:11.697193"
+    },
+    {
+      "english": "I notice your care, every small kindness",
+      "greek": "Παρατηρώ, τη φροντίδα σου, σε κάθε μικρή καλοσύνη",
+      "category": "Gratitude",
+      "generated_at": "2026-10-04T00:25:11.697203"
+    },
+    {
+      "english": "Today, I’m grateful for warm bread",
+      "greek": "Σήμερα, νιώθω ευγνωμοσύνη, για ζεστό ψωμί",
+      "category": "Gratitude",
+      "generated_at": "2026-10-04T00:25:11.697205"
+    },
+    {
+      "english": "Thank you, for a steady hand",
+      "greek": "Ευχαριστώ, για το σταθερό σου χέρι",
+      "category": "Gratitude",
+      "generated_at": "2026-10-04T00:25:11.697206"
+    },
+    {
+      "english": "My heart softens, when I hear you",
+      "greek": "Η καρδιά μου μαλακώνει, όταν σε ακούει",
+      "category": "Gratitude",
+      "generated_at": "2026-10-04T00:25:11.697207"
     }
   ],
-  "last_updated": "2026-10-03T21:57:38.500899"
+  "last_updated": "2026-10-04T00:25:11.697209"
 }
