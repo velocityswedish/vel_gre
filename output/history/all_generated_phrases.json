@@ -25349,7 +25349,37 @@
       "greek": "Οι δύσκολες στιγμές περνούν, σαν βροχή χειμώνα",
       "category": "Strength",
       "generated_at": "2026-10-07T21:02:34.133963"
+    },
+    {
+      "english": "Morning fog clears, so can your thoughts.",
+      "greek": "Η πρωινή ομίχλη φεύγει, έτσι και οι σκέψεις σου.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-07T23:26:26.881910"
+    },
+    {
+      "english": "Write one line, let it warm you.",
+      "greek": "Γράψε μία γραμμή, άσε την να σε ζεστάνει.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-07T23:26:26.881920"
+    },
+    {
+      "english": "Tea steams softly, breathe, then try again.",
+      "greek": "Το τσάι αχνίζει απαλά, ανάσα, μετά ξανά.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-07T23:26:26.881921"
+    },
+    {
+      "english": "When shoes wait, you still move forward.",
+      "greek": "Όταν τα παπούτσια περιμένουν, εσύ προχωράς.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-07T23:26:26.881922"
+    },
+    {
+      "english": "A cracked phone screen can’t break your future.",
+      "greek": "Η σπασμένη οθόνη δεν σπάει το μέλλον σου.",
+      "category": "Inspiration",
+      "generated_at": "2026-10-07T23:26:26.881923"
     }
   ],
-  "last_updated": "2026-10-07T21:02:34.133964"
+  "last_updated": "2026-10-07T23:26:26.881924"
 }
