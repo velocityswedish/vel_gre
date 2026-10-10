@@ -25739,7 +25739,37 @@
       "greek": "Μια μικρή σημείωση, η καλοσύνη γυρνά.",
       "category": "Positive Life",
       "generated_at": "2026-10-10T06:45:42.898608"
+    },
+    {
+      "english": "Breathe now, notice color, soften your shoulders.",
+      "greek": "Ανάπνευσε τώρα, δες χρώμα, χαλάρωσε ώμους.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-10T17:39:04.991682"
+    },
+    {
+      "english": "Coffee is steam, let thoughts drift past.",
+      "greek": "Ο καφές είναι ατμός, άφησε σκέψεις να περνούν.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-10T17:39:04.991691"
+    },
+    {
+      "english": "In the mirror, greet your face kindly.",
+      "greek": "Στον καθρέφτη, χαιρέτησε το πρόσωπό σου.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-10T17:39:04.991693"
+    },
+    {
+      "english": "Listen to one sound, then one more.",
+      "greek": "Άκου ένα ήχο, μετά έναν ακόμα.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-10T17:39:04.991694"
+    },
+    {
+      "english": "Hold the moment, release the rest gently.",
+      "greek": "Κράτα τη στιγμή, άφησε τα άλλα απαλά.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-10T17:39:04.991695"
     }
   ],
-  "last_updated": "2026-10-10T06:45:42.898610"
+  "last_updated": "2026-10-10T17:39:04.991697"
 }
