@@ -25799,7 +25799,37 @@
       "greek": "Κοίτα μπροστά, όχι στο σκοντάμμα.",
       "category": "Balance",
       "generated_at": "2026-10-10T19:47:50.033858"
+    },
+    {
+      "english": "Breathe in, you can handle this.",
+      "greek": "Πάρε ανάσα, μπορείς να το αντέξεις.",
+      "category": "Confidence",
+      "generated_at": "2026-10-10T22:10:59.744867"
+    },
+    {
+      "english": "Tonight, your courage gets a turn.",
+      "greek": "Απόψε, το θάρρος σου μπαίνει μπροστά.",
+      "category": "Confidence",
+      "generated_at": "2026-10-10T22:10:59.744875"
+    },
+    {
+      "english": "Yes, you know the next move.",
+      "greek": "Ναι, ξέρεις το επόμενο βήμα.",
+      "category": "Confidence",
+      "generated_at": "2026-10-10T22:10:59.744876"
+    },
+    {
+      "english": "You’ve got enough, start speaking.",
+      "greek": "Έχεις αρκετά, μίλα τώρα.",
+      "category": "Confidence",
+      "generated_at": "2026-10-10T22:10:59.744877"
+    },
+    {
+      "english": "Your voice steadies, one word at once.",
+      "greek": "Η φωνή σου σταθερεύει, λέξη λέξη.",
+      "category": "Confidence",
+      "generated_at": "2026-10-10T22:10:59.744877"
     }
   ],
-  "last_updated": "2026-10-10T19:47:50.033860"
+  "last_updated": "2026-10-10T22:10:59.744878"
 }
