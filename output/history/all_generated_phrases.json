@@ -25829,7 +25829,37 @@
       "greek": "Η φωνή σου σταθερεύει, λέξη λέξη.",
       "category": "Confidence",
       "generated_at": "2026-10-10T22:10:59.744877"
+    },
+    {
+      "english": "Hope rises, even in my quiet mornings,",
+      "greek": "Η ελπίδα σηκώνεται, στα ήσυχα πρωινά μου,",
+      "category": "Hope",
+      "generated_at": "2026-10-11T00:45:12.976842"
+    },
+    {
+      "english": "I water tomorrow, with today’s patience,",
+      "greek": "Ποτίζω το αύριο, με την υπομονή μου σήμερα,",
+      "category": "Hope",
+      "generated_at": "2026-10-11T00:45:12.976851"
+    },
+    {
+      "english": "A spark waits, behind the hardest chores,",
+      "greek": "Μια σπίθα περιμένει, πίσω από τις πιο δύσκολες δουλειές,",
+      "category": "Hope",
+      "generated_at": "2026-10-11T00:45:12.976853"
+    },
+    {
+      "english": "Hope is a lamp, in my tired pocket,",
+      "greek": "Η ελπίδα είναι φως, στην κουρασμένη μου τσέπη,",
+      "category": "Hope",
+      "generated_at": "2026-10-11T00:45:12.976854"
+    },
+    {
+      "english": "When rain falls, I imagine paths,",
+      "greek": "Όταν βρέχει, φαντάζομαι δρόμους,",
+      "category": "Hope",
+      "generated_at": "2026-10-11T00:45:12.976855"
     }
   ],
-  "last_updated": "2026-10-10T22:10:59.744878"
+  "last_updated": "2026-10-11T00:45:12.976857"
 }
