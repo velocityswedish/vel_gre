@@ -26669,7 +26669,37 @@
       "greek": "Βάζω έναν στόχο, και ακούω προσεκτικά.",
       "category": "Confidence",
       "generated_at": "2026-10-16T17:10:13.007284"
+    },
+    {
+      "english": "Coffee first, breathe in slowly, then talk.",
+      "greek": "Πρώτος ο καφές, εισπνοή αργή, μετά μιλάμε.",
+      "category": "Balance",
+      "generated_at": "2026-10-16T19:20:20.250997"
+    },
+    {
+      "english": "Keys in hand, calm mind follows, today.",
+      "greek": "Κλειδιά στο χέρι, γαλήνη έρχεται, σήμερα.",
+      "category": "Balance",
+      "generated_at": "2026-10-16T19:20:20.251005"
+    },
+    {
+      "english": "Shoes on, shoulders down, go gently.",
+      "greek": "Παπούτσια έτοιμα, ώμοι κάτω, προχώρα απαλά.",
+      "category": "Balance",
+      "generated_at": "2026-10-16T19:20:20.251007"
+    },
+    {
+      "english": "Water breaks thirst, quiet breaks noise, inside.",
+      "greek": "Το νερό σβήνει τη δίψα, ησυχία σπάει τον θόρυβο.",
+      "category": "Balance",
+      "generated_at": "2026-10-16T19:20:20.251008"
+    },
+    {
+      "english": "When thoughts race, pause, look up, smile.",
+      "greek": "Όταν τρέχουν οι σκέψεις, σταμάτα, κοίτα ψηλά, χαμογέλα.",
+      "category": "Balance",
+      "generated_at": "2026-10-16T19:20:20.251009"
     }
   ],
-  "last_updated": "2026-10-16T17:10:13.007285"
+  "last_updated": "2026-10-16T19:20:20.251011"
 }
