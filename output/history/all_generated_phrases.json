@@ -26759,7 +26759,37 @@
       "greek": "Ανταλλάζουμε χαμόγελα, σαν κέρματα, ήσυχα",
       "category": "Friendship",
       "generated_at": "2026-10-17T00:13:42.217173"
+    },
+    {
+      "english": "Exhale softly, let the noise fade",
+      "greek": "Ανάπνευσε ήρεμα, άσε τον θόρυβο να σβήσει",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T05:23:14.425508"
+    },
+    {
+      "english": "Hands rest, my mind returns home",
+      "greek": "Τα χέρια ησυχάζουν, ο νους μου γυρνά σπιτικό",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T05:23:14.425519"
+    },
+    {
+      "english": "In silence, I meet myself gently",
+      "greek": "Στη σιωπή, συναντώ τον εαυτό μου απαλά",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T05:23:14.425521"
+    },
+    {
+      "english": "Slow down, the storm is passing",
+      "greek": "Λίγο πιο αργά, η καταιγίδα περνά",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T05:23:14.425522"
+    },
+    {
+      "english": "I sip calm, one breath at a time",
+      "greek": "Γεύομαι ηρεμία, μία ανάσα κάθε φορά",
+      "category": "Inner Peace",
+      "generated_at": "2026-10-17T05:23:14.425523"
     }
   ],
-  "last_updated": "2026-10-17T00:13:42.217175"
+  "last_updated": "2026-10-17T05:23:14.425525"
 }
