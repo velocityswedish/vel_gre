@@ -27119,7 +27119,37 @@
       "greek": "Η νύχτα γίνεται πιο ελαφριά, με το χέρι σου",
       "category": "Love",
       "generated_at": "2026-10-19T19:00:34.588580"
+    },
+    {
+      "english": "Where are you, friend? I'm here, always.",
+      "greek": "Πού είσαι, φίλε; Είμαι εδώ, πάντα.",
+      "category": "Friendship",
+      "generated_at": "2026-10-19T20:53:44.499792"
+    },
+    {
+      "english": "Let’s trade jokes, and share quiet smiles.",
+      "greek": "Ας ανταλλάξουμε αστεία, και ήσυχα χαμόγελα.",
+      "category": "Friendship",
+      "generated_at": "2026-10-19T20:53:44.499801"
+    },
+    {
+      "english": "Your voice steadies me, like morning coffee.",
+      "greek": "Η φωνή σου με στηρίζει, σαν πρωινός καφές.",
+      "category": "Friendship",
+      "generated_at": "2026-10-19T20:53:44.499802"
+    },
+    {
+      "english": "I’ll bring water, you bring stories.",
+      "greek": "Θα φέρω νερό, εσύ φέρνεις ιστορίες.",
+      "category": "Friendship",
+      "generated_at": "2026-10-19T20:53:44.499804"
+    },
+    {
+      "english": "When skies change, our friendship stays warm.",
+      "greek": "Όταν αλλάξει ο ουρανός, η φιλία μας μένει ζεστή.",
+      "category": "Friendship",
+      "generated_at": "2026-10-19T20:53:44.499805"
     }
   ],
-  "last_updated": "2026-10-19T19:00:34.588583"
+  "last_updated": "2026-10-19T20:53:44.499806"
 }
