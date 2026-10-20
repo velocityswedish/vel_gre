@@ -27179,7 +27179,37 @@
       "greek": "Γυρίζω στην καλοσύνη, και ανοίγει χώρος.",
       "category": "Forgiveness",
       "generated_at": "2026-10-19T22:46:31.172257"
+    },
+    {
+      "english": "Breathe slowly, feel your shoulders soften",
+      "greek": "Αργά ανάσα, νιώσε τους ώμους να χαλαρώνουν",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-20T00:58:51.940777"
+    },
+    {
+      "english": "Look around, notice five quiet details",
+      "greek": "Κοίτα γύρω, παρατήρησε πέντε ήσυχες λεπτομέρειες",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-20T00:58:51.940788"
+    },
+    {
+      "english": "Let the thought pass, like a cloud",
+      "greek": "Άσε τη σκέψη να περνά, σαν σύννεφο",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-20T00:58:51.940790"
+    },
+    {
+      "english": "Unclench your jaw, return to now",
+      "greek": "Χαλάρωσε τη γνάθο, γύρνα στο τώρα",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-20T00:58:51.940791"
+    },
+    {
+      "english": "Sip your water, taste this moment",
+      "greek": "Γλίστρησε νερό, γεύσου τη στιγμή",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-20T00:58:51.940792"
     }
   ],
-  "last_updated": "2026-10-19T22:46:31.172259"
+  "last_updated": "2026-10-20T00:58:51.940794"
 }
