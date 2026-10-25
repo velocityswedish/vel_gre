@@ -27959,7 +27959,37 @@
       "greek": "Πρώτα ακούω, μετά μιλώ",
       "category": "Balance",
       "generated_at": "2026-10-25T00:07:13.530335"
+    },
+    {
+      "english": "Rough days pass, steady hands stay",
+      "greek": "Οι δύσκολες μέρες περνούν, σταθερά χέρια μένουν",
+      "category": "Perseverance",
+      "generated_at": "2026-10-25T05:47:34.725473"
+    },
+    {
+      "english": "Water wears stone, you train daily",
+      "greek": "Το νερό σμιλεύει πέτρα, εσύ εξασκείσαι κάθε μέρα",
+      "category": "Perseverance",
+      "generated_at": "2026-10-25T05:47:34.725483"
+    },
+    {
+      "english": "When it’s hard, you breathe, continue",
+      "greek": "Όταν δυσκολεύει, αναπνέεις, συνεχίζεις",
+      "category": "Perseverance",
+      "generated_at": "2026-10-25T05:47:34.725484"
+    },
+    {
+      "english": "Fold the fear, keep working quietly",
+      "greek": "Δίπλωσε τον φόβο, δούλεψε ήρεμα",
+      "category": "Perseverance",
+      "generated_at": "2026-10-25T05:47:34.725485"
+    },
+    {
+      "english": "Late effort counts, even after setbacks",
+      "greek": "Η αργή προσπάθεια μετρά, κι ας έχεις πτώσεις",
+      "category": "Perseverance",
+      "generated_at": "2026-10-25T05:47:34.725487"
     }
   ],
-  "last_updated": "2026-10-25T00:07:13.530336"
+  "last_updated": "2026-10-25T05:47:34.725488"
 }
