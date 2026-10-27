@@ -28319,7 +28319,37 @@
       "greek": "Μια ερώτηση, ο νους κινείται πάλι.",
       "category": "Growth",
       "generated_at": "2026-10-27T18:32:49.484078"
+    },
+    {
+      "english": "Friends bring quiet light, in busy streets",
+      "greek": "Οι φίλοι φέρνουν ήσυχο φως, στις πολυσύχναστες γωνιές",
+      "category": "Friendship",
+      "generated_at": "2026-10-27T20:35:57.750466"
+    },
+    {
+      "english": "We laugh, then share our worries softly",
+      "greek": "Γελάμε, μετά μοιραζόμαστε τις ανησυχίες μας σιγά",
+      "category": "Friendship",
+      "generated_at": "2026-10-27T20:35:57.750477"
+    },
+    {
+      "english": "Hold my hand, the dark feels smaller",
+      "greek": "Πιάσε το χέρι μου, το σκοτάδι μικραίνει",
+      "category": "Friendship",
+      "generated_at": "2026-10-27T20:35:57.750479"
+    },
+    {
+      "english": "Send me a message, I’m here",
+      "greek": "Στείλε μου ένα μήνυμα, είμαι εδώ",
+      "category": "Friendship",
+      "generated_at": "2026-10-27T20:35:57.750480"
+    },
+    {
+      "english": "Coffee pauses, we trade stories slowly",
+      "greek": "Παύσεις με καφέ, ανταλλάσσουμε ιστορίες σιγά",
+      "category": "Friendship",
+      "generated_at": "2026-10-27T20:35:57.750481"
     }
   ],
-  "last_updated": "2026-10-27T18:32:49.484079"
+  "last_updated": "2026-10-27T20:35:57.750483"
 }
