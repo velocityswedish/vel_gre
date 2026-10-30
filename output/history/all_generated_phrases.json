@@ -28709,7 +28709,37 @@
       "greek": "Κάνε μια ερώτηση, μάθε ήσυχα, συνέχισε.",
       "category": "Success",
       "generated_at": "2026-10-30T01:44:18.974970"
+    },
+    {
+      "english": "Good morning, breathe, and soften your day.",
+      "greek": "Καλημέρα, πάρε ανάσα, και μαλάκωσε τη μέρα.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-30T06:52:11.996571"
+    },
+    {
+      "english": "Let light in, tidy one corner.",
+      "greek": "Άσε το φως μέσα, τακτοποίησε μια γωνιά.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-30T06:52:11.996580"
+    },
+    {
+      "english": "Drink water slowly, your body thanks you.",
+      "greek": "Πιες νερό αργά, το σώμα σου χαίρεται.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-30T06:52:11.996580"
+    },
+    {
+      "english": "Answer calmly, even when noise surrounds you.",
+      "greek": "Απάντα ήρεμα, κι ας σε ζώνει ο θόρυβος.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-30T06:52:11.996581"
+    },
+    {
+      "english": "Feed your mind, read one bright page.",
+      "greek": "Τάισε το μυαλό, διάβασε μια φωτεινή σελίδα.",
+      "category": "Positive Life",
+      "generated_at": "2026-10-30T06:52:11.996582"
     }
   ],
-  "last_updated": "2026-10-30T01:44:18.974971"
+  "last_updated": "2026-10-30T06:52:11.996583"
 }
