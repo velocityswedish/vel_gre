@@ -28919,7 +28919,37 @@
       "greek": "Το ποτήρι γεμίζει αργά, σαν καλές ιδέες.",
       "category": "Wisdom",
       "generated_at": "2026-10-31T17:30:17.324333"
+    },
+    {
+      "english": "Breathe, then walk through the hard hour",
+      "greek": "Ανάσα, μετά περπάτα την δύσκολη ώρα",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T19:45:33.114436"
+    },
+    {
+      "english": "Today, grind slowly, outcomes follow later",
+      "greek": "Σήμερα, τρίψε αργά, τα αποτελέσματα έρχονται μετά",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T19:45:33.114445"
+    },
+    {
+      "english": "When it hurts, stay, and learn the route",
+      "greek": "Όταν πονάει, μείνε, και μάθε τη διαδρομή",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T19:45:33.114447"
+    },
+    {
+      "english": "Turn the page, even if blank",
+      "greek": "Γύρνα τη σελίδα, κι ας είναι άδεια",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T19:45:33.114448"
+    },
+    {
+      "english": "Dust on your shoes, carry it forward",
+      "greek": "Σκόνη στα παπούτσια, προχώρησε μαζί της",
+      "category": "Perseverance",
+      "generated_at": "2026-10-31T19:45:33.114449"
     }
   ],
-  "last_updated": "2026-10-31T17:30:17.324334"
+  "last_updated": "2026-10-31T19:45:33.114451"
 }
