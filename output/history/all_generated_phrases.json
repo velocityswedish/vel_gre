@@ -29159,7 +29159,37 @@
       "greek": "Το κινητό χτυπάει, εσύ διαλέγεις το επόμενο βήμα.",
       "category": "Growth",
       "generated_at": "2026-11-02T01:22:37.694387"
+    },
+    {
+      "english": "My voice steadies, even when my hands shake.",
+      "greek": "Η φωνή μου σταθερώνει, κι ας τρέμουν τα χέρια.",
+      "category": "Confidence",
+      "generated_at": "2026-11-02T07:24:08.290245"
+    },
+    {
+      "english": "I speak first, then I listen carefully.",
+      "greek": "Μιλάω πρώτα, μετά ακροάζομαι προσεκτικά.",
+      "category": "Confidence",
+      "generated_at": "2026-11-02T07:24:08.290254"
+    },
+    {
+      "english": "Today feels heavier, yet I move anyway.",
+      "greek": "Σήμερα μοιάζει βαρύ, μα εγώ προχωρώ.",
+      "category": "Confidence",
+      "generated_at": "2026-11-02T07:24:08.290255"
+    },
+    {
+      "english": "I count breaths, my fear loses shape.",
+      "greek": "Μετράω ανάσες, ο φόβος χάνει μορφή.",
+      "category": "Confidence",
+      "generated_at": "2026-11-02T07:24:08.290257"
+    },
+    {
+      "english": "I ask one question, and the world opens.",
+      "greek": "Ρωτάω μία ερώτηση, κι ανοίγει ο κόσμος.",
+      "category": "Confidence",
+      "generated_at": "2026-11-02T07:24:08.290258"
     }
   ],
-  "last_updated": "2026-11-02T01:22:37.694388"
+  "last_updated": "2026-11-02T07:24:08.290260"
 }
