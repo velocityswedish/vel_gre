@@ -29189,7 +29189,37 @@
       "greek": "Ρωτάω μία ερώτηση, κι ανοίγει ο κόσμος.",
       "category": "Confidence",
       "generated_at": "2026-11-02T07:24:08.290258"
+    },
+    {
+      "english": "Morning light finds you, then you answer",
+      "greek": "Το πρωινό φως σε βρίσκει, εσύ απαντάς",
+      "category": "Joy",
+      "generated_at": "2026-11-03T07:40:42.952101"
+    },
+    {
+      "english": "Sip your coffee, breathe out worry",
+      "greek": "Πιες τον καφέ σου, βγάλε την ανησυχία",
+      "category": "Joy",
+      "generated_at": "2026-11-03T07:40:42.952111"
+    },
+    {
+      "english": "Let the page turn, not the fear",
+      "greek": "Άσε τη σελίδα να γυρίσει, όχι τον φόβο",
+      "category": "Joy",
+      "generated_at": "2026-11-03T07:40:42.952112"
+    },
+    {
+      "english": "Tie your shoelaces, feel steady joy",
+      "greek": "Δέσε τα κορδόνια σου, νιώσε χαρά ήρεμη",
+      "category": "Joy",
+      "generated_at": "2026-11-03T07:40:42.952112"
+    },
+    {
+      "english": "When noise rises, choose softer words",
+      "greek": "Όταν σηκώνεται ο θόρυβος, διάλεξε πιο ήπιες λέξεις",
+      "category": "Joy",
+      "generated_at": "2026-11-03T07:40:42.952113"
     }
   ],
-  "last_updated": "2026-11-02T07:24:08.290260"
+  "last_updated": "2026-11-03T07:40:42.952114"
 }
