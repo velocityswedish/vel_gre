@@ -29219,7 +29219,37 @@
       "greek": "Όταν σηκώνεται ο θόρυβος, διάλεξε πιο ήπιες λέξεις",
       "category": "Joy",
       "generated_at": "2026-11-03T07:40:42.952113"
+    },
+    {
+      "english": "Hey friend, tell me what happened today,",
+      "greek": "Γεια φίλε, πες μου τι έγινε σήμερα,",
+      "category": "Friendship",
+      "generated_at": "2026-11-04T07:19:16.544294"
+    },
+    {
+      "english": "We share snacks, and silly stories,",
+      "greek": "Μοιραζόμαστε σνακ, και τρελές ιστορίες,",
+      "category": "Friendship",
+      "generated_at": "2026-11-04T07:19:16.544302"
+    },
+    {
+      "english": "Your laugh, turns my day brighter,",
+      "greek": "Το γέλιο σου, κάνει τη μέρα μου πιο φωτεινή,",
+      "category": "Friendship",
+      "generated_at": "2026-11-04T07:19:16.544304"
+    },
+    {
+      "english": "Walk with me, we’ll find the path,",
+      "greek": "Περπάτα μαζί μου, θα βρούμε τον δρόμο,",
+      "category": "Friendship",
+      "generated_at": "2026-11-04T07:19:16.544305"
+    },
+    {
+      "english": "When you’re quiet, I listen, always,",
+      "greek": "Όταν σωπαίνεις, σε ακούω, πάντα,",
+      "category": "Friendship",
+      "generated_at": "2026-11-04T07:19:16.544306"
     }
   ],
-  "last_updated": "2026-11-03T07:40:42.952114"
+  "last_updated": "2026-11-04T07:19:16.544308"
 }
