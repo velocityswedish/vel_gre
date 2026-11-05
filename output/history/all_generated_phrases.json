@@ -29249,7 +29249,37 @@
       "greek": "Όταν σωπαίνεις, σε ακούω, πάντα,",
       "category": "Friendship",
       "generated_at": "2026-11-04T07:19:16.544306"
+    },
+    {
+      "english": "Morning, breathe in, begin quietly.",
+      "greek": "Πρωί, πάρε ανάσα, άρχισε ήσυχα.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:47:01.810132"
+    },
+    {
+      "english": "Dinner smells, you learn, you relax.",
+      "greek": "Το φαγητό μυρίζει, μαθαίνεις, ηρεμείς.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:47:01.810140"
+    },
+    {
+      "english": "On the bus, watch, listen, repeat.",
+      "greek": "Στο λεωφορείο, κοιτάς, ακούς, επαναλαμβάνεις.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:47:01.810142"
+    },
+    {
+      "english": "At night, write one line, stop.",
+      "greek": "Τη νύχτα, γράψε μια γραμμή, σταμάτα.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:47:01.810143"
+    },
+    {
+      "english": "Tea steams, thoughts soften, you continue.",
+      "greek": "Το τσάι αχνίζει, οι σκέψεις μαλακώνουν, συνεχίζεις.",
+      "category": "Purpose",
+      "generated_at": "2026-11-05T07:47:01.810145"
     }
   ],
-  "last_updated": "2026-11-04T07:19:16.544308"
+  "last_updated": "2026-11-05T07:47:01.810146"
 }
