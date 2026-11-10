@@ -29429,7 +29429,42 @@
       "greek": "Άκου τους ήχους του δρόμου, χωρίς να κυνηγάς.",
       "category": "Mindfulness",
       "generated_at": "2026-11-10T08:03:45.135170"
+    },
+    {
+      "english": "Be patient, your answer will come.",
+      "greek": "Κάνε υπομονή, η απάντηση θα έρθει.",
+      "transliteration": "Kane ypomoní, i apántisi tha erthiei.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T09:31:47.735729"
+    },
+    {
+      "english": "Let go, and wait without pressure.",
+      "greek": "Άφησέ το, και περίμενε χωρίς πίεση.",
+      "transliteration": "Afísé to, kai perímene choris píesi.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T09:31:47.735744"
+    },
+    {
+      "english": "Stay calm, even if it takes time.",
+      "greek": "Μείνε ήρεμος, ακόμα κι αν αργεί.",
+      "transliteration": "Meíne íremos, akóma ki an argeí.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T09:31:47.735746"
+    },
+    {
+      "english": "Wait a bit more, then decide.",
+      "greek": "Περίμενε λίγο ακόμα, και μετά αποφάσισε.",
+      "transliteration": "Perímene lígo akóma, kai meta apófasis e.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T09:31:47.735747"
+    },
+    {
+      "english": "No rush, take your time gently.",
+      "greek": "Χωρίς βιασύνη, πάρε τον χρόνο σου.",
+      "transliteration": "Choris biasýni, páre ton chrono sou.",
+      "category": "Patience",
+      "generated_at": "2026-11-10T09:31:47.735749"
     }
   ],
-  "last_updated": "2026-11-10T08:03:45.135172"
+  "last_updated": "2026-11-10T09:31:47.735752"
 }
