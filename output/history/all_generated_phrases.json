@@ -29399,7 +29399,37 @@
       "greek": "Η βροχή χτυπά το τζάμι, νιώθω γαλήνη.",
       "category": "Happiness",
       "generated_at": "2026-11-09T07:42:55.051468"
+    },
+    {
+      "english": "Feel your breath, like warm waves.",
+      "greek": "Νιώσε την ανάσα, σαν ζεστά κύματα.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-10T08:03:45.135158"
+    },
+    {
+      "english": "Notice your thoughts, let them pass.",
+      "greek": "Παρατήρησε τις σκέψεις, άφησέ τες να φύγουν.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-10T08:03:45.135167"
+    },
+    {
+      "english": "Relax your jaw, unhook the day.",
+      "greek": "Χαλάρωσε τη σιαγόνα, λύσε την ημέρα.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-10T08:03:45.135168"
+    },
+    {
+      "english": "Hands on your heart, soften.",
+      "greek": "Χέρια στην καρδιά, μαλάκωσε.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-10T08:03:45.135169"
+    },
+    {
+      "english": "Listen to street sounds, without chasing.",
+      "greek": "Άκου τους ήχους του δρόμου, χωρίς να κυνηγάς.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-10T08:03:45.135170"
     }
   ],
-  "last_updated": "2026-11-09T07:42:55.051470"
+  "last_updated": "2026-11-10T08:03:45.135172"
 }
