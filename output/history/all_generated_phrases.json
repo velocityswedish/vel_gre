@@ -29989,7 +29989,42 @@
       "transliteration": "Ótan to xekhnáo, prospáthō xaná.",
       "category": "Purpose",
       "generated_at": "2026-11-13T05:57:02.926088"
+    },
+    {
+      "english": "You’re welcome, I’m glad it helped.",
+      "greek": "Παρακαλώ, χαίρομαι που βοήθησα.",
+      "transliteration": "Parakaló, chaíromai pou voíthisa.",
+      "category": "Kindness",
+      "generated_at": "2026-11-13T20:44:39.712815"
+    },
+    {
+      "english": "Take your time, no need to rush.",
+      "greek": "Πάρε τον χρόνο σου, μην βιάζεσαι.",
+      "transliteration": "Páre ton chrόno sou, min viázesai.",
+      "category": "Kindness",
+      "generated_at": "2026-11-13T20:44:39.712827"
+    },
+    {
+      "english": "I’m here, if you need anything.",
+      "greek": "Είμαι εδώ, αν χρειαστείς κάτι.",
+      "transliteration": "Eímai edó, an chreiastheís kapí.",
+      "category": "Kindness",
+      "generated_at": "2026-11-13T20:44:39.712829"
+    },
+    {
+      "english": "It’s okay, let’s try again together.",
+      "greek": "Δεν πειράζει, ας το δοκιμάσουμε ξανά.",
+      "transliteration": "Den peírazei, as to dokimasoume ksaná.",
+      "category": "Kindness",
+      "generated_at": "2026-11-13T20:44:39.712830"
+    },
+    {
+      "english": "Thanks for your patience, really appreciate it.",
+      "greek": "Ευχαριστώ για την υπομονή σου.",
+      "transliteration": "Efcharistó gia tin ypomoní sou.",
+      "category": "Kindness",
+      "generated_at": "2026-11-13T20:44:39.712831"
     }
   ],
-  "last_updated": "2026-11-13T05:57:02.926091"
+  "last_updated": "2026-11-13T20:44:39.712833"
 }
