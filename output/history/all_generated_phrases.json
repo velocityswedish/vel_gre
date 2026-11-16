@@ -30094,7 +30094,42 @@
       "transliteration": "Niòtho evgnomοsyni, gia ta aplá pragmata.",
       "category": "Happiness",
       "generated_at": "2026-11-15T19:31:16.960410"
+    },
+    {
+      "english": "I can do this, slowly.",
+      "greek": "Μπορώ να το κάνω, αργά.",
+      "transliteration": "Boró na to káno, arjá.",
+      "category": "Confidence",
+      "generated_at": "2026-11-16T23:09:30.863921"
+    },
+    {
+      "english": "It’s okay, I’ll try again.",
+      "greek": "Είναι εντάξει, θα το ξαναπροσπαθήσω.",
+      "transliteration": "Eínai endáxei, tha to xana-prospathíso.",
+      "category": "Confidence",
+      "generated_at": "2026-11-16T23:09:30.863943"
+    },
+    {
+      "english": "I trust myself, one step.",
+      "greek": "Εμπιστεύομαι τον εαυτό μου, ένα βήμα.",
+      "transliteration": "Empisteúomai ton eaftó mou, éna víma.",
+      "category": "Confidence",
+      "generated_at": "2026-11-16T23:09:30.863945"
+    },
+    {
+      "english": "My words will come, eventually.",
+      "greek": "Τα λόγια μου θα έρθουν, τελικά.",
+      "transliteration": "Ta lóyia mou tha érthoun, teliká.",
+      "category": "Confidence",
+      "generated_at": "2026-11-16T23:09:30.863947"
+    },
+    {
+      "english": "I’m ready, even if nervous.",
+      "greek": "Είμαι έτοιμος, κι ας νιώθω φόβο.",
+      "transliteration": "Eímе étoimos, ki as niótho fóvo.",
+      "category": "Confidence",
+      "generated_at": "2026-11-16T23:09:30.863949"
     }
   ],
-  "last_updated": "2026-11-15T19:31:16.960412"
+  "last_updated": "2026-11-16T23:09:30.863951"
 }
