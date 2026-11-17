@@ -30129,7 +30129,42 @@
       "transliteration": "Eímе étoimos, ki as niótho fóvo.",
       "category": "Confidence",
       "generated_at": "2026-11-16T23:09:30.863949"
+    },
+    {
+      "english": "Thank you for listening, today.",
+      "greek": "Σε ευχαριστώ που με ακούς, σήμερα.",
+      "transliteration": "Se efcharistó pou me akús, simera.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T21:59:54.487672"
+    },
+    {
+      "english": "I’m grateful for your steady encouragement.",
+      "greek": "Είμαι ευγνώμων για την σταθερή ενθάρρυνσή σου.",
+      "transliteration": "Eímai evgnómon gia tin stathērí enthárrynσή sou.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T21:59:54.487690"
+    },
+    {
+      "english": "Thank you, for making space for me.",
+      "greek": "Σε ευχαριστώ, που μου κάνεις χώρο.",
+      "transliteration": "Se efcharistó, pou mou kánis chōro.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T21:59:54.487691"
+    },
+    {
+      "english": "Your kindness warms me, quietly.",
+      "greek": "Η καλοσύνη σου με ζεσταίνει, ήρεμα.",
+      "transliteration": "I kalosýni sou me zestáinei, írēma.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T21:59:54.487693"
+    },
+    {
+      "english": "I feel grateful for your honest words.",
+      "greek": "Νιώθω ευγνωμοσύνη για τα ειλικρινή σου λόγια.",
+      "transliteration": "Niōtho evgnōmosýni gia ta elikriní sou lógia.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-17T21:59:54.487694"
     }
   ],
-  "last_updated": "2026-11-16T23:09:30.863951"
+  "last_updated": "2026-11-17T21:59:54.487696"
 }
