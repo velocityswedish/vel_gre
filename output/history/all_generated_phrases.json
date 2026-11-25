@@ -30409,7 +30409,42 @@
       "transliteration": "Chalarose tous omous, eisai asfalis.",
       "category": "Positive Life",
       "generated_at": "2026-11-24T23:21:48.446922"
+    },
+    {
+      "english": "Please, go ahead, after you.",
+      "greek": "Παρακαλώ, περάστε εσείς πρώτα.",
+      "transliteration": "Παρακαλώ, περάστε εσείς πρώτα.",
+      "category": "Kindness",
+      "generated_at": "2026-11-25T22:53:44.983802"
+    },
+    {
+      "english": "Take a breath, you’re doing fine.",
+      "greek": "Πάρε μια ανάσα, τα πας καλά.",
+      "transliteration": "Πάρε μια ανάσα, τα πας καλά.",
+      "category": "Kindness",
+      "generated_at": "2026-11-25T22:53:44.983821"
+    },
+    {
+      "english": "I hear you, really, no rush.",
+      "greek": "Σε ακούω, πραγματικά, χωρίς βιασύνη.",
+      "transliteration": "Σε ακούω, πραγματικά, χωρίς βιασύνη.",
+      "category": "Kindness",
+      "generated_at": "2026-11-25T22:53:44.983823"
+    },
+    {
+      "english": "Here, I’ll carry that for you.",
+      "greek": "Πάρε, θα το πάω εγώ για σένα.",
+      "transliteration": "Πάρε, θα το πάω εγώ για σένα.",
+      "category": "Kindness",
+      "generated_at": "2026-11-25T22:53:44.983824"
+    },
+    {
+      "english": "Let’s speak softly, like neighbors.",
+      "greek": "Ας μιλήσουμε απαλά, σαν γείτονες.",
+      "transliteration": "Ας μιλήσουμε απαλά, σαν γείτονες.",
+      "category": "Kindness",
+      "generated_at": "2026-11-25T22:53:44.983826"
     }
   ],
-  "last_updated": "2026-11-24T23:21:48.446925"
+  "last_updated": "2026-11-25T22:53:44.983828"
 }
