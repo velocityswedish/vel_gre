@@ -2,7 +2,9 @@ name: Velocity Greek - Storybook Publish
 
 on:
   schedule:
-    - cron: '16:20 * * *'
+    - cron: '06:25 * * *'
+    - cron: '12:30 * * *'
+    - cron: '18:35 * * *'
   workflow_dispatch:
     inputs:
       category:
